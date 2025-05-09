@@ -1,0 +1,3543 @@
+﻿The Project Gutenberg EBook of El caso extraño del Doctor Jekyll, by 
+Robert Louis Stevenson
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: El caso extraño del Doctor Jekyll
+
+Author: Robert Louis Stevenson
+
+Translator: Emilio Soulére
+
+Release Date: July 12, 2020 [EBook #62627]
+
+Language: Spanish
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EL CASO EXTRAÑO DEL DOCTOR JEKYLL ***
+
+
+
+
+Produced by Carlos Colón, The Library of Congress and the
+Online Distributed Proofreading Team at https://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+  Nota del Transcriptor:
+
+
+  Se ha respetado la ortografía y la acentuación del original.
+
+  Errores obvios de imprenta han sido corregidos.
+
+  Páginas en blanco han sido eliminadas.
+
+  Letras itálicas son denotadas con _líneas_.
+
+  Las versalitas (letras mayúsculas de tamaño igual a las minúsculas)
+  han sido sustituidas por letras mayúsculas de tamaño normal.
+
+
+
+
+                     NOVELAS PUBLICADAS EN ESPAÑOL
+                                  POR
+                    D. APPLETON Y CÍA., NUEVA YORK.
+
+
+PEPITA JIMÉNEZ.
+
+                         POR DON JUAN VALERA.
+
+Edición Americana Ilustrada. Un hermoso tomo de 219 páginas, con 7
+láminas, el retrato y autógrafo del autor y varias viñetas alegóricas.
+Encuadernación de mucho gusto artístico y bonitamente decorada. Buen
+papel, tipo claro, etc., etc. Precio, $1.25.
+
+
+LA CASA EN EL DESIERTO.
+
+Aventuras de una familia perdida en las soledades de la América del
+Norte.
+
+                      POR EL CAPITÁN MAYNE REID.
+
+Un bonito tomo de 348 páginas con 12 láminas, encuadernado en tela
+inglesa. $1.25.
+
+La misma, edición económica, 50 centavos.
+
+
+LAS MINAS DEL REY SALOMÓN.
+
+                         POR H. RIDER HAGGARD.
+
+Una novela inglesa llena de aventuras y de escenas interesantísimas. 50
+centavos.
+
+
+
+
+                          EL CASO EXTRAÑO DEL
+                             DOCTOR JEKYLL
+
+
+                      _NOVELA ESCRITA EN INGLÉS_
+
+
+                                  POR
+                        ROVERTO LUIS STEVENSON
+
+                       TRADUCIDA AL ESPAÑOL POR
+                            EMILIO SOULÉRE
+
+
+                              NUEVA YORK
+                        D. APPLETON Y COMPAÑÍA
+                         1, 3, Y 5 BOND STREET
+                                 1891
+
+
+
+
+                           COPYRIGHT, 1891,
+                      BY D. APPLETON AND COMPANY.
+
+
+_La propiedad de esta obra está protegida por la ley en varios países,
+donde se perseguirá á los que la reproduzcan fraudulentamente._
+
+
+
+
+SOBRE LA PRESENTE OBRA.
+
+
+El Caso extraño del Dr. Jekyll, ó sea del _Dr. Jekyll y de Mister
+Hyde_, es, después de _La Isla del Tesoro_, la obra más afamada de
+Stevenson y no será dudoso el que la primera sea aún más conocida que
+la segunda en los países anglosajones. Débese esto indudablemente á
+que además de haber sido y ser constantemente leída por casi todo el
+mundo, fué dramatizada y obtuvo tan buen éxito que se ha representado
+centenares de veces. Recientemente se publicó también una versión
+francesa: _Le Cas Étrange du Docteur Jekyll_, hecha con no poco gusto
+y tino por Mme. B. J. Low, esposa del reputado artista de este nombre,
+y ahora aparece la española, que estamos seguros ha de ser tan bien
+recibida como aquélla.
+
+La novela posee ya de por sí un interés dramático poco común, y en
+toda ella se revela ese arte peculiar y característico de su autor en
+el relato, que desde el principio atrae la curiosidad del que la lee.
+En este trabajo psicológico ó psico-fisiológico, Stevenson ha logrado
+sacar, del misterio de la dualidad humana, efectos irresistibles,
+uniendo discretamente lo maravilloso con lo científico y la enseñanza
+moral con la narración más interesante de ese combate entre dos
+naturalezas distintamente opuestas, que luchan sin cesar entre sí,
+revelando el imperio que ejerce la más ruin sobre la más noble, cuando
+á tiempo no se logran dominar sus exigencias y caprichos.
+
+La historia del Dr. Jekyll, despojada de ciertos atavíos, de todo
+adorno maravilloso y de la parte fantástica, es la historia de muchos
+que acaso todos conocemos y tratamos diariamente, sólo que en el
+presente caso está trazada por la mano maestra del reputado autor
+escocés.
+
+                                                 LOS EDITORES.
+
+  NUEVA YORK, _Abril, 1891_.
+
+
+
+
+EL CASO EXTRAÑO DEL DOCTOR JEKYLL.
+
+
+
+
+HISTORIA DE LA PUERTA.
+
+
+El Sr. Utterson, el abogado, era un hombre de rostro duro en el cual
+no brillaba jamás una sonrisa; frío, lacónico y confuso en su modo de
+hablar; poco expansivo; flaco, alto, de porte descuidado, triste, y
+sin embargo, capaz no sé por qué, de inspirar afecto. En las reuniones
+de amigos, y cuando el vino era de su gusto, había en todo su ser algo
+eminentemente humano que chispeaba en sus ojos; pero ese no sé qué,
+nunca se traducía en palabras; sólo lo manifestaba por medio de esos
+síntomas mudos que aparecen en el rostro después de la comida, y de un
+modo más ostensible, por los actos de su vida. Era rígido y severo para
+consigo mismo; bebía ginebra cuando se hallaba solo, para mortificarse
+por su afición al vino; y, aunque le agradaba el teatro, hacía veinte
+años que no había penetrado por la puerta de ninguno. Pero tenía para
+con los demás una tolerancia particular; á veces se sorprendía, no
+sin una especie de envidia, de las desgracias ocurridas á hombres
+inteligentes, complicados ó envueltos en sus propias maldades, y
+siempre procuraba más bien ayudar que censurar. "Me inclino,--tenía por
+costumbre decir, no sin cierta agudeza--hacia la herejía de Caín; dejo
+que mi hermano siga su camino en busca del diablo." Con ese carácter,
+resultaba á menudo, que era el último conocido honrado y la última
+influencia buena para aquellos cuya vida iba á mal fin; y aún á esos,
+durante todo el tiempo que andaban á su alrededor, jamás llegaba á
+demostrar ni siquiera la sombra de un cambio en su manera de ser.
+
+Sin duda era fácil esa actitud para Utterson, pues era absolutamente
+impasible, y hasta sus amistades parecían fundadas en sentimientos
+similares de natural bondad. Es característico en un hombre modesto el
+aceptar de manos de la casualidad las amistades, y eso es lo que había
+hecho el abogado. Sus amigos eran sus parientes ó aquellos á quienes
+había conocido desde hacía mucho tiempo; sus afecciones, como la
+hiedra, crecían con el tiempo, pero no procedían de ninguna inclinación
+especial. De ahí, sin duda, provenía la amistad que le unía á Ricardo
+Enfield, uno de sus lejanos parientes, y hombre que frecuentaba mucho
+la sociedad. Para algunos había en ello un enigma; ¿qué podrían hallar
+uno en otro, y qué podía haber de común entre ambos? Los que los
+encontraban en sus paseos del domingo, referían que no se hablaban,
+que parecían sombríos, y que la aparición ó la llegada de algún amigo
+era acogida por ellos con evidentes signos de satisfacción y hasta de
+consuelo.
+
+Á pesar de todo, ambos daban gran importancia á aquellos paseos, que
+eran como el principal placer para ellos, y no sólo rechazaban todas
+las demás distracciones, sino que prescindían en absoluto de los
+negocios, para disfrutar con mayor libertad de sus paseos.
+
+La casualidad hizo que en una de aquellas excursiones, cruzasen una
+callejuela situada en un barrio comercial de Londres. Era sumamente
+tranquila, pero en los días de trabajo había en ella un comercio
+activo. Sus habitantes hacían todos buenos negocios, esperaban hacerlos
+mejores en el porvenir, y dedicaban el sobrante de sus beneficios al
+embellecimiento de sus residencias, de tal suerte, que las fachadas
+de las tiendas alineadas á lo largo de la calle parecían invitarlo á
+uno como hubieran podido hacerlo dos hileras de sonrientes vendedoras.
+Hasta el domingo, cuando aquellos atractivos encantos estaban ocultos y
+la calle parecía relativamente desierta, ofrecía marcado contraste con
+las inmediaciones, bastante sucias, contraste parecido al de un fuego
+brillante en medio de un bosque sombrío; no cabe duda de que aquellas
+persianas recién pintadas, aquellos bronces relucientes, y aquella nota
+de limpieza y de alegría sorprendían y agradaban á los transeuntes.
+
+Á dos casas de distancia de la esquina de la calle, á mano izquierda
+yendo hacia el Este, la línea se hallaba cortada por la entrada
+de un callejón sin salida, en el que se levantaba un edificio de
+aspecto triste, cuyos aleros se extendían sobre la calle. Tenía dos
+pisos, ninguna ventana, solo una puerta en la planta baja, y el
+muro deteriorado que se elevaba hasta el extremo superior; en todo
+demostraba aquella construcción largo tiempo de abandono y descuido.
+La puerta, en la cual no había ni campanilla ni picaporte, estaba
+deteriorada y sucia. Los vagos acostumbraban sentarse en el escalón
+de ella, y la utilizaban para encender fósforos; los muchachos de
+las escuelas habían probado sus cuchillas en las molduras; y durante
+muchísimo tiempo nadie se había preocupado de rechazar á aquellos
+visitantes, ó de reparar sus daños.
+
+El Sr. Enfield y el abogado cruzaban por el otro lado de la callejuela,
+y al llegar frente á aquel edificio, el primero señaló á la puerta con
+su bastón.
+
+--¿Habéis observado alguna vez esta puerta?--preguntó; y cuando su
+amigo le hubo contestado afirmativamente, añadió:--se halla enlazada en
+mi memoria con una historia harto singular.
+
+--¿De veras?--dijo Utterson, con una ligera alteración en la voz--¿qué
+historia es esa?
+
+--Hela aquí--replicó el Sr. Enfield.--Regresaba á mi casa desde un
+punto lejano, á eso de las tres de la madrugada, una obscura noche de
+invierno, y mis pasos me llevaron á una parte de la ciudad en donde
+no se veía más que los faroles. Todo el mundo dormía; las calles se
+hallaban iluminadas como para una procesión y completamente desiertas;
+mi ánimo había llegado á hallarse en aquel estado en que se desea
+ardientemente ver á un agente de policía. De pronto vi dos personas:
+una de ellas era un hombrecillo que caminaba á buen paso hacia el Este,
+y la otra una niña de ocho á diez años que corría tanto como le era
+dable, por una calle transversal. Al cruzarse en la intersección de las
+dos calles, chocaron uno con otro, y el hombre pisoteó con la mayor
+calma el cuerpo de la niña, dejándola tendida en el suelo y continuando
+su camino. Aquello no era el proceder de un hombre, sino más bien el
+del diablo indio Juggernaut. Lancé un grito, eché á correr, cogí á mi
+hombre por el cuello, y lo llevé al punto en donde ya, alrededor de la
+criatura, que se quejaba lastimosamente, había varias personas. Estaba
+enteramente tranquilo, y además, no opuso la menor resistencia, pero
+me lanzó una mirada que me infundió verdadero terror. Las personas
+que habían salido de la casa inmediata eran todas de la familia de la
+niña, y poco después llegó el médico, á quien habían ido á buscar.
+En realidad, la criatura no estaba gravemente herida, sino más bien
+asustada, según dijo el facultativo; y tal vez podríais suponer que las
+cosas no pasaron de ahí; pero había una circunstancia curiosa. Desde el
+primer golpe de vista había experimentado yo odio contra el agresor,
+así como la familia de la niña, lo cual era muy natural. Lo que más me
+sorprendió fué la conducta del médico. Era un tipo ordinario, sin nada
+de particular, con un marcado acento escocés, y de aspecto tranquilo
+y pacífico; pero no pudo menos de experimentar la misma conmoción que
+nosotros; cada vez que miraba á mi prisionero, veía yo que el doctor
+palidecía y contenía el deseo de arrojarse sobre él. Yo comprendía
+lo que pensaba, y él á su vez, también comprendía mi pensamiento; y
+como no era posible asesinar á aquel hombre, optamos por lo mejor.
+Le dijimos que nos proponíamos hacer tanto ruido respecto de aquel
+asunto, que su nombre sería maldecido de un extremo á otro de Londres.
+Mientras le decíamos esto, nos vimos obligados á defenderlo contra
+las mujeres, que parecían tan exaltadas como harpías. En mi vida he
+visto una reunión de caras que demostrasen el odio que aquéllas; y en
+medio de todos, nuestro hombre, parecía hacer alarde de una presencia
+de espíritu brutal, sarcástica--como desafiando á todos, aunque en el
+fondo yo veía que estaba asustado.
+
+--Si lo que deseáis--dijo--es sacar dinero á costa de este
+incidente, me declaro vencido. Todo caballero desea evitar el
+escándalo--añadió;--decidme la suma que pretendeis.
+
+La fijamos, no sin trabajo, en cien libras esterlinas para la familia
+de la niña; se comprendía que hubiera querido resistir, pero había en
+todas nuestras fisonomías algo que debió asustarle, y concluyó por
+acceder. Después fué preciso obtener el dinero; y ¿adónde creéis que
+nos llevó? precisamente al mismo lugar en que se halla esa puerta;
+sacó rápidamente una llave, entró, y volvió á salir con diez libras
+en oro y un vale por el resto, á cargo del Banco de Coutt, pagadero
+al portador y á la vista, y firmado con un nombre que no puedo decir;
+era un nombre muy conocido y más de una vez publicado en caracteres
+de imprenta. La suma era fuerte, pero la firma valía mucho más, si
+realmente era auténtica. Me tomé la libertad de hacer notar á nuestro
+personaje, que todo aquel negocio parecía fantástico, y que no era
+común que un hombre entrase á las cuatro de la madrugada por la puerta
+de una cueva para salir con un vale perteneciente á otra persona, por
+un valor de cerca de cien libras; pero acogió mi indicación con una
+tranquilidad perfecta y dijo con tono sarcástico:
+
+--Tranquilizaos; voy á permanecer con ustedes hasta que se abra el
+despacho del Banco, y cobraré el vale yo mismo.--Partimos todos; el
+doctor, el padre de la niña, nuestro hombre y yo pasamos el resto de la
+noche en mi casa. Por la mañana, después de haber almorzado, fuimos
+juntos al Banco. Presenté el vale, dudando si sería falso; pero nada de
+eso; era bueno.
+
+--Vaya, vaya--exclamó Utterson.
+
+--Veo que experimentais igual duda que yo--repuso Enfield;--sí, es
+verdaderamente una historia original. En cuanto á mi hombre, era un
+ser con el cual nadie hubiera querido tener tratos; un hombre temible
+y peligroso; y la persona que firmó el vale pertenece á la flor de la
+alta sociedad, es muy conocida y, lo que da lugar á mayores sospechas
+es que forma parte de los que se tienen por hombres de bien, y á
+quienes se llama así. Yo creo que es un hombre honrado que tiene que
+pagar á peso de oro el silencio de alguien que conoce alguna locura de
+su juventud; así es que á esa casa de la puerta le llamo yo la casa de
+la difamación, aunque, como lo podéis comprender, todo esto se halla
+lejos de explicar las cosas--añadió; y después continuó pensativo,
+sumido al parecer en profunda meditación; pero no tardó en salir de
+ella, por la siguiente pregunta que le dirigió Utterson:
+
+--¿Y no sabéis si el firmante del vale vive aquí?
+
+--¡Ah! ¡sería verdaderamente una hermosa residencia para él!--repuso
+Enfield--pero he tenido la suerte de lograr algunas noticias relativas
+á sus señas; no vive aquí.
+
+--¿Y jamás habéis preguntado nada respecto del sitio en que está la
+puerta?--volvió á decir el Sr. Utterson.
+
+--No señor, he tenido esa delicadeza--añadió Enfield.--Tengo viva
+repugnancia por las preguntas; eso se asemeja demasiado á lo que se
+hará el día del Juicio final. Lanzáis una pregunta, y es como si
+tiráseis una piedra; estáis tranquilamente sentado en la cima de una
+colina, y la piedra desciende arrastrando á otras consigo; y resulta
+que un viejo pájaro cualquiera (el último de quien os acordáis), queda
+herido por la piedra en su propio jardín, en su misma casa, y la
+familia se ve obligada á cambiar de nombre á causa del escándalo. No,
+señor, he llegado á hacer de ello una regla de conducta; cuanto más
+sospechosa me parece una cosa, menos pregunto.
+
+--Es, verdaderamente, un buen método--dijo el abogado.
+
+--Pero he estudiado el paraje yo mismo--siguió diciendo Enfield;--la
+construcción no se parece apenas á una casa. No tiene ninguna otra
+puerta, y nadie ha entrado ó salido por esa en un largo espacio de
+tiempo, sino el caballero de mi historia. Hay tres ventanas, con vista
+al callejón sin salida, en el piso principal; debajo no existe ninguna;
+los postigos están siempre cerrados, pero se ven limpios. Además, tiene
+una chimenea que echa humo constantemente; luego, alguien debe vivir
+allí. Mas no es absolutamente seguro, pues las casas de aquel callejón
+sin salida encajan de tal modo unas dentro de otras, que es difícil
+decir dónde concluye una y comienza otra.
+
+Caminaron durante algún tiempo sin decir una palabra.
+
+--Enfield--exclamó el Sr. Utterson--tenéis una excelente regla de
+conducta.
+
+--Así lo creo--repuso Enfield.
+
+--Pero, á pesar de todo--continuó el jurisconsulto--hay una cosa que
+quisiera preguntaros; desearía saber el nombre del hombre que pisoteó á
+la niña.
+
+--Bien--contestó Enfield--no veo ningún mal en ello. Era un individuo
+llamado Hyde.
+
+--¡Hum!--dijo Utterson--¿qué clase de hombre es?
+
+--No es fácil de describir. Se observa en todo su exterior cierta
+falsedad, algo desagradable, algo evidentemente detestable. Jamás he
+visto un hombre que me agrade menos, y casi no sé por qué. Debe haber
+en él algo deforme; produce el efecto de una gran deformidad, aunque
+no me sea posible precisarla. Tiene una mirada extraordinaria, y sin
+embargo, nada puedo especificar que se salga de lo común y ordinario.
+No, señor, no me es posible llegar á una conclusión, ni tampoco
+describirlo. Y no es por falta de memoria, pues puedo verlo en este
+mismo instante.
+
+El Sr. Utterson anduvo algunos pasos más sin interrumpir el silencio, y
+luego preguntó, como obligado por sus reflexiones:
+
+--¿Estáis seguro que hizo uso de una llave?
+
+--Querido señor...--dijo Enfield, notablemente sorprendido por aquella
+pregunta.
+
+--Sí, ya sé,--continuó Utterson--ya sé que eso debe parecer extraño.
+El hecho es que no os pregunto el nombre de la otra persona, porque la
+conozco ya. Lo veis, Ricardo, vuestra relación ha dado en el blanco. Si
+en algún punto habéis sido inexacto, haríais bien en rectificar.
+
+--Creo que hubiérais podido avisarme--replicó Enfield, con algo de mal
+humor--pero he sido completamente exacto. El hombre tenía una llave; y
+lo que es más, la tiene todavía. Lo vi usarla no hace aún una semana.
+
+Utterson lanzó un profundo suspiro, pero no volvió á hablar; y el
+joven, reanudando entonces la conversación, añadió:
+
+--Hé aquí para mí una nueva lección y otro motivo para callar. Me
+avergüenzo de haber tenido la lengua demasiado larga, y convengamos en
+no volver á tratar ese asunto.
+
+--De todo corazón--respondió el abogado--os doy mi palabra y un apretón
+de manos, Ricardo.
+
+
+
+
+EN BUSCA DEL SR. HYDE.
+
+
+Aquella noche, el Sr. Utterson volvió á su habitación de soltero,
+con el ánimo sombrío, y se sentó sin placer ante la mesa en donde
+se hallaba servida la comida. Tenía costumbre, el domingo, cuando
+concluía de comer, de ir á sentarse junto al fuego, con un tomo de
+cualquier teólogo árido sobre su pupitre, permaneciendo así hasta que
+el reloj de la vecina iglesia tocaba doce campanadas, y entonces iba
+tranquilamente á acostarse. Sin embargo, la noche aquella, así que
+quitaron el mantel, tomó una bujía y fué á su gabinete. Allí abrió su
+cofre y sacó del sitio más secreto un documento envuelto en un sobre,
+en el cual estaba escrito lo siguiente: "Testamento del Doctor Jekyll,"
+y se sentó melancólicamente para estudiar su contenido. El testamento
+era ológrafo, pues aunque Utterson se había encargado de guardarlo
+una vez hecho, no quiso intervenir en su redacción. Aquel testamento
+declaraba, que no sólo en el caso del fallecimiento de Enrique Jekyll,
+Doctor en Medicina, etc., etc., todos sus bienes deberían pasar á manos
+de su amigo y bienhechor Eduardo Hyde, sino que por la desaparición ó
+una ausencia inexplicable del Dr. Jekyll, ausencia que excediese de un
+período de tres meses, el referido Eduardo Hyde debería tomar posesión
+de los bienes de dicho Enrique Jekyll, sin ningún otro plazo, y libre
+de toda carga ú obligación, salvo algunas pequeñas sumas que pagar á
+los criados de la casa del doctor. Hacía ya mucho tiempo que aquel
+documento desagradaba al abogado. Le molestaba á la vez en su calidad
+de jurisconsulto, y en el concepto de partidario de los usos sensatos y
+ordinarios de la vida, y de enemigo de todo lo extravagante. Además, su
+desconocimiento de la persona del Sr. Hyde era lo que había aumentado
+su indignación; y ahora, gracias á un acontecimiento inesperado, le
+conocía. Ya era bastante malo que tuviese un nombre respecto del cual
+nada podía saber, que nada decía, y era mucho peor cuando aquel nombre
+fué revestido con detestables imputaciones; y el espeso y nebuloso velo
+que había cubierto sus ojos durante tanto tiempo se rasgó de golpe para
+dejarle ver á un verdadero demonio.
+
+Después de esto, apagó la bujía, se puso un gabán, y salió. Encaminóse
+hacia la plaza Cavendish, ciudadela de la Medicina, en donde su amigo,
+el gran doctor Lanyón, tenía su casa, y recibía á sus numerosos
+clientes. "Si alguien sabe, será Lanyón," se dijo á sí mismo el
+jurisconsulto.
+
+El solemne ayuda de cámara le conocía, y le saludó; como no se le
+sometía á las interminables antesalas de las visitas ordinarias, fué
+directamente desde la puerta hasta el comedor, en donde se hallaba el
+doctor Lanyón.
+
+El doctor era un caballero que vivía bien, excelente compañero,
+saludable, bien portado y de rostro algo encendido; su cabello había
+encanecido antes de tiempo, y lo llevaba desordenado. Sus ademanes
+eran bruscos y alborotados. Al ver á Utterson, dejó la silla y corrió
+á su encuentro, tendiéndole ambas manos. Aquella efusión, que era uno
+de sus hábitos, tenía algo de teatral, pero se hallaba cimentada sobre
+verdaderos sentimientos de amistad, pues ambos eran antiguos camaradas
+y condiscípulos de la escuela y la Universidad, que se guardaban mutua
+consideración, y aunque no sea consecuencia de ello, les agradaba
+hallarse juntos.
+
+Después de una corta y trivial conversación, el abogado llegó al asunto
+que le aguijoneaba penosamente el espíritu.
+
+--Supongo, Lanyón--dijo--que vos y yo debemos ser los dos amigos más
+viejos que tiene Enrique Jekyll.
+
+--Yo quisiera que los amigos fuesen más jóvenes--contestó riéndose el
+Dr. Lanyón;--pero creo que así es. ¿Y qué más? Lo veo tan poco á menudo
+ahora...
+
+--¿Cómo?--exclamó Utterson--yo creía que teníais intereses comunes.
+
+--Los hemos tenido--repuso el doctor--pero desde hace diez años,
+el Dr. Enrique Jekyll se ha vuelto demasiado fantástico para mí.
+Comenzaba á emprender un mal camino, mal camino desde el punto de
+vista intelectual, y aunque sigo, sin duda, interesándome por él,
+á causa de nuestro antiguo y buen compañerismo, he visto y veo muy
+rara vez á nuestro hombre en estos últimos tiempos. Sus extravagantes
+ideas--añadió el doctor poniéndose encarnado--hubieran hecho reñir á
+Damón y Pythias.
+
+Ese pequeño estallido de cólera llevó un poco de calma y algo de alivio
+al ánimo de Utterson. "Habrán diferido únicamente de opinión en alguna
+cuestión científica," pensó para sí, y no siendo hombre capaz de tener
+pasiones científicas (salvo el caso del procedimiento y diligencias de
+su oficio) añadió, hablando consigo mismo: "no será cosa grave." Dejó
+algunos segundos de respiro para que se repusiese su amigo, y le lanzó
+la pregunta objeto de su visita:
+
+--¿Habéis visto alguna vez á uno de sus protegidos, un tal Hyde?
+
+--¿Hyde?--repitió Lanyón.--No, jamás he oído nada de él. Su amistad
+debe ser posterior á nuestras pequeñas diferencias.
+
+Esos eran los únicos informes que llevaba el abogado al regresar á su
+gran lecho sombrío, sobre el cual se agitó en todos sentidos hasta las
+primeras horas de la mañana. Fué una noche aquella de poco descanso
+para su atormentado espíritu, envuelto en obscuridades y asediado por
+la duda.
+
+Las seis daban en la cercana iglesia, tan bien situada con respecto
+á la habitación del Sr. Utterson, y éste continuaba soñando en su
+problema.
+
+Hasta entonces sólo le había considerado desde el punto de vista
+intelectual; pero en aquel momento estaba dominado por las diferencias,
+por los saltos de su imaginación; y aunque acostado, y volviéndose
+de un lado para otro, en medio de la sombría obscuridad del cuarto,
+conservada por espesas colgaduras, la historia del Sr. Enfield se iba
+desenvolviendo delante de él, y todos los detalles se le presentaban
+como cuadros luminosos de un panorama.
+
+Veía primero los espacios inmensos de una ciudad alumbrados por
+faroles; luego la forma de un hombre caminando rápidamente; después
+la de una criatura que volvía corriendo de la casa del médico, y en
+fin, su encuentro, y aquel diablo (Juggernaut) de apariencia humana,
+pisoteando á la niña y marchándose sin que le detuviesen sus gritos.
+Su visión continuaba: veía un cuarto, en una hermosa casa, en donde
+dormía su amigo, soñando y sonriendo á sus sueños, abrirse la puerta
+del cuarto, separarse los cortinajes, despertarse su amigo, y frente
+á él presentarse una forma que tenía el poder, aun en aquella hora
+indebida, de hacerle levantar y darle órdenes. Aquella forma con
+dos rostros tan distintos persiguió el espíritu del abogado toda
+la noche, y si lograba dormirse algunos instantes, seguía viendo la
+forma deslizarse disimuladamente á lo largo de las casas cerradas, ó
+caminando rápidamente, más rápidamente aún, hasta caer desvanecida, á
+través del laberinto de una ciudad alumbrada, iluminada, y luego, en la
+esquina de cada calle, pisotear á una criatura y abandonarla á pesar
+de sus lamentos y sus gritos. Y aquella forma no tenía jamás un rostro
+que permitiese reconocerla; hasta en sueños no tenía una cara conocida,
+ó la que tenía se ocultaba y desvanecía cuando quería mirarla; y
+así fué, gracias á ese sueño, como creció y creció en el ánimo del
+abogado aquella curiosidad verdaderamente extraña, casi extravagante,
+de conocer la fisonomía del verdadero Sr. Hyde. Pensaba que, si
+alguna vez llegaba á fijar sus ojos en él, se aclararía el misterio,
+desapareciendo en absoluto, como sucede con todo lo sobrenatural cuando
+se examina de cerca. Hallaría sin duda alguna razón para explicar la
+extraña preferencia ó esa esclavitud de su amigo (llámesele como se
+quiera), y también las cláusulas sorprendentes de su testamento. Sea lo
+que fuere, no cabe duda de que el rostro valía la pena de ser visto;
+ese rostro de un hombre cuyas entrañas no tenían compasión ni piedad
+ninguna, era rostro que sólo con presentarse había logrado inspirar en
+el ánimo del insensible Enfield un sentimiento de odio profundo.
+
+Desde aquel instante, Utterson se puso á examinar frecuentemente la
+puerta de la callejuela de las tiendas. Por la mañana antes de la
+hora del escritorio, al mediodía cuando los negocios estaban en plena
+actividad y teniendo escaso tiempo, por la noche á la luz de una luna
+velada por la niebla, en una palabra, con todas las luces y á todas
+horas, solo ó en medio del gentío, podía verse el abogado en aquel
+sitio.
+
+Al fin, su paciencia se vió recompensada. Era una noche hermosa y
+apacible; helaba, y las calles estaban tan limpias como el piso de un
+salón de baile; los faroles, cuyos mecheros no agitaba ni el más ligero
+soplo de aire, daban la cantidad de luz y de sombra requerida.
+
+Hacia las diez, cuando todas las tiendas estuvieron cerradas, la
+callejuela quedó desierta y silenciosa, sin oirse más que el ruido
+sordo de sus alrededores. Del otro lado de la calle se percibían
+los movimientos, las idas y venidas en el interior de las casas,
+distinguiéndose los pasos de los transeuntes mucho antes de verlos.
+Hacía algunos minutos que Utterson estaba en su puesto, cuando llamó
+su atención un paso ligero y extraño que se aproximaba. En el curso
+de sus nocturnas peregrinaciones había llegado á acostumbrarse á
+distinguir en medio de los zumbidos y de los ruidos más diferentes
+de una gran ciudad, los pasos de una persona sola, lejos aún, y que
+venía bruscamente á él, pero nunca se había sentido su atención tan
+excitada ni tan fija como en aquel momento definitivo, y poseído de un
+presentimiento absoluto y supersticioso de un buen éxito, se ocultó en
+la entrada del callejón.
+
+Los pasos se acercaban rápidamente, haciéndose más y más distintos
+en el recodo de la calle. El abogado, mirando desde su escondite, no
+tardó en ver con qué clase de hombre se las tenía que haber. Éste era
+pequeño, vestido con sencillez; su exterior, aun á aquella distancia,
+no fué enteramente del agrado del observador. El hombre fué derecho
+á la puerta, atravesando el arroyo para ganar tiempo, y sin dejar de
+andar, sacó una llave del bolsillo, como quien llega á su casa.
+
+El Sr. Utterson atravesó la calle y le tocó el hombro cuando pasaba,
+diciendo:
+
+--¿El Sr. Hyde, si no me equivoco?
+
+Hyde retrocedió vivamente, y su respiración pareció cambiarse en un
+silvido. Pero su temor sólo fué momentáneo, y aunque no podía ver el
+rostro del abogado, contestó con sequedad:
+
+--Ese es mi nombre. ¿Qué me queréis?
+
+--Veo que vais á entrar--repuso el abogado.--Soy un antiguo amigo del
+Dr. Jekyll;--Utterson, de la calle Gaunt.--Debéis haber oído mi nombre,
+y encontrándoos tan á propósito, he pensado que tendríais la bondad de
+recibirme.
+
+--No hallaréis al Dr. Jekyll; no está en su casa--replicó Hyde soplando
+en el cañón de la llave, y luego, de repente, sin mirar al abogado,
+añadió:--¿Cómo me habéis conocido?
+
+--Ahora os toca á vos--dijo Utterson--¿queréis concederme un favor?
+
+--Con mucho gusto--contestó Hyde--¿de qué se trata?
+
+--¿Queréis dejarme ver vuestro rostro?--preguntó el abogado.
+
+Hyde pareció vacilar; luego, impelido sin duda por alguna reflexión
+súbita, se volvió enseñando el rostro con cierto aire de provocación ó
+desafío, y ambos se miraron fijamente durante algunos segundos.
+
+--Ahora os reconoceré--dijo Utterson--lo cual puede ser conveniente.
+
+--Sí--replicó Hyde--no me disgusta que nos hayamos encontrado; y, á
+propósito, os daré las señas de mi casa--y le dijo un número de una
+calle en Soho.
+
+--¡Dios mío!--pensó Utterson--¿se habrá acordado también él del
+testamento?--Pero guardó sus temores para sí, y murmuró algunas
+palabras como para agradecer las señas dadas.
+
+--Bien, veamos--dijo Hyde--¿cómo me habéis conocido?
+
+--Por una descripción--fué la repuesta.
+
+--Una descripción, ¿de quién?
+
+--Tenemos amigos comunes--añadió Utterson.
+
+--¿Amigos comunes?--repuso Hyde como un eco y con voz ronca.--¿Quiénes
+son?
+
+--Jekyll, por ejemplo--dijo el abogado.
+
+--Jamás os ha dicho nada--exclamó Hyde con un movimiento de cólera.--No
+os creía capaz de mentir.
+
+--Algo dura me parece esa palabra--replicó Utterson.
+
+Hyde lanzó una estrepitosa carcajada, y con una rapidez extraordinaria,
+levantó el pestillo de la puerta y desapareció dentro de la casa.
+
+El abogado se quedó inmóvil y desconcertado al ver la desaparición
+de Hyde. Al cabo de un rato echó á andar calle arriba, deteniéndose
+á cada paso y llevándose una mano á la frente, como un hombre preso
+de la mayor perplejidad. El problema cuya solución buscaba, según iba
+caminando, era de aquellos que rara vez la tienen. El Sr. Hyde era
+pálido y de pequeña estatura; producía la impresión de lo deforme sin
+que fuese posible designar esa deformidad con una palabra exacta; tenía
+una sonrisa desagradable; se había conducido con una mezcla criminal
+de timidez y de audacia; había hablado con una voz ronca, que silvaba
+por momentos, y algo cascada. Todos estos detalles le eran contrarios,
+pero aun reunidos no bastaban para explicar la repugnancia, el odio y
+el miedo con que los consideraba Utterson. Debe de haber algo más, se
+dijo perplejo. Hay algo más; si pudiese darle á eso un nombre. ¡Ese
+hombre apenas se parece á un ser humano! Tiene algo del troglodita.
+¿Será esto como la antigua historia del Dr. Fell? ¿Ó es únicamente el
+simple reflejo é irradiación de un alma mala que pasa á través de él
+y que altera ó desnaturaliza su envoltorio corporal? Porque, ¡oh, mi
+pobre viejo Enrique Jekyll, si alguna vez he leído la firma de Satanás
+puesta en un rostro, ha sido en el de vuestro nuevo amigo!
+
+Precisamente al doblar la esquina de la calle, había un grupo de
+antiguas y grandes casas, en su mayor parte ya muy deterioradas,
+divididas en pisos con habitaciones separadas que se alquilaban á
+hombres de todas clases y condiciones, grabadores, arquitectos,
+abogados sin clientes, y agentes de negocios dudosos. Una de aquellas
+casas, sin embargo, la inmediata á la de la esquina de la calle, se
+hallaba ocupada por un solo inquilino, y á la puerta de aquella casa,
+que tenía cierto aspecto de comodidad y de riqueza, aunque medio sumida
+en la obscuridad, porque únicamente la alumbraba un farol interior, fué
+donde se detuvo Utterson, y á la que llamó. Un criado anciano y de buen
+porte abrió la puerta.
+
+--Poole, ¿está en casa el Dr. Jekyll?--preguntó el abogado.
+
+--Voy á ver, Utterson--contestó Poole, haciendo entrar al jurisconsulto
+en un extenso recibimiento bajo de techo y embaldosado, adornado con
+hermosos armarios de roble, y calentado, al estilo de las casas de
+campo, por un gran fuego que ardía en una chimenea abierta.
+
+--¿Queréis esperar aquí junto al hogar, caballero, ó preferís pasar al
+comedor?
+
+--Aquí, gracias--contestó el abogado, aproximándose al fuego.
+
+Aquella habitación, en la que se quedó solo por unos momentos, era la
+predilecta de su amigo el doctor, y el mismo Utterson tenía costumbre
+de hablar de ella como de la más agradable de Londres. Pero aquella
+noche Utterson se hallaba en una situación excepcional; el rostro
+de Hyde no se apartaba de su memoria; sentía (cosa rara en él) como
+disgusto de la vida, y su espíritu entristecido le hacía ver como una
+amenaza en los reflejos de las llamas sobre las partes brillantes de
+los armarios, y en los oscilantes movimientos de las sombras del techo.
+
+Cuando Poole regresó y anunció que el Dr. Jekyll había salido;--he
+visto al Sr. Hyde entrar por la vieja puerta del gabinete de anatomía,
+Poole--le dijo el abogado--¿es eso natural no estando en casa el Dr.
+Jekyll?
+
+--Completamente natural y regular, Sr. Utterson--repuso el criado.--El
+Sr. Hyde tiene una llave de aquella puerta.
+
+--Vuestro amo, Poole, parece tener la mayor confianza en ese joven.
+
+--Sí, señor, es verdad--contestó Poole--todos tenemos orden de
+obedecerle.
+
+--No creo haber encontrado aquí jamás al Sr. Hyde--dijo Utterson.
+
+--¡Oh! de seguro que no; nunca come aquí--añadió el ayuda de
+cámara.--En realidad pocas veces oímos hablar de él en este lado de la
+casa; casi siempre entra y sale por el laboratorio.
+
+--Bien, buenas noches, Poole.
+
+--Buenas noches, Sr. Utterson.
+
+Y el abogado emprendió el camino de su casa con el corazón oprimido.
+¡Pobre Enrique Jekyll! (decía hablando consigo mismo) tengo el
+presentimiento de que va por mal camino. Era libertino cuando joven,
+hace tiempo, es verdad, pero según la ley de Dios, siempre, tarde ó
+temprano, llega para cada uno el castigo de sus pecados. Y debe ser
+algo así; el espectro de algún antiguo pecado, el cáncer roedor de
+alguna vergüenza oculta, cuyo castigo viene cuando años después la
+memoria ha olvidado la falta y el amor propio la ha excusado.
+
+Asustado por sus mismas ideas, recordó su pasado, buscando y
+escudriñando en todos los rincones de su memoria, temeroso de que
+algún antiguo pecado se mostrase en plena luz. Su pasado era bastante
+limpio y sin tacha; pocos hombres hubieran podido leer las páginas
+de su vida con menos temor y aprensión, y sin embargo, sentíase como
+profundamente humillado á causa de las numerosas malas acciones que
+creía haber cometido, al mismo tiempo que se gozaba con el recuerdo de
+las que había sabido evitar.
+
+Volviendo al asunto que le preocupaba, tuvo un rayo de esperanza.
+
+Si se pudiera profundizar en el estudio de ese Hyde.... dijo para
+sí--debe tener grandes secretos; secretos siniestros, á juzgar por su
+cara; secretos ante los cuales las peores acciones del pobre Jekyll
+serían como brillantes rayos de sol. Pero las cosas no pueden seguir
+así. Se me hiela la sangre cuando pienso que ese ser se arrastra como
+un ladrón hasta el lecho de Enrique; ¡Pobre Enrique, qué despertar el
+tuyo! Y lo más peligroso de todo eso es que si el tal Hyde sospecha la
+existencia del testamento, tendrá prisa por heredar. Es preciso que
+yo me ocupe de este asunto--si Jekyll quiere permitírmelo--añadió--si
+Jekyll quiere dejarme obrar--pues una vez más vió ante sus ojos
+escritas, con igual claridad que en el papel, las extrañas cláusulas
+del testamento.
+
+
+
+
+EL DR. JEKYLL ESTABA TRANQUILO.
+
+
+Quince días después, por una feliz casualidad, el doctor daba una
+de sus alegres comidas á cinco ó seis antiguos amigos, hombres
+inteligentes, respetables y conocedores del buen vino; el Sr. Utterson,
+que era uno de ellos, se arregló de modo que permaneció allí después de
+haberse marchado los demás. No fué aquello un hecho fortuito, porque
+ya había ocurrido otras veces. En donde querían á Utterson, lo querían
+de veras. Los anfitriones se complacían en retener al austero abogado,
+cuando los demás convidados, con la lengua suelta y el corazón alegre,
+habían traspasado el umbral de la puerta; les era grato permanecer
+algún tiempo en su discreta compañía, comenzando así á acostumbrarse á
+la soledad en que iban á quedar, y habituando el espíritu al silencio,
+pasada la exuberante alegría producida por el banquete. El Dr. Jekyll
+no era una excepción de esta regla; y sentado en el lado opuesto al
+fuego, él, hombre de unos cincuenta años, bien constituído, de rostro
+barbilampiño, con un aspecto quizá algo disimulado, pero de apariencia
+inteligente y bondadosa, daba á entender que experimentaba por Utterson
+una amistad tan viva como sincera.
+
+--Deseaba hablaros, Jekyll--comenzó diciendo el Sr.
+Utterson--¿recordáis aquel testamento vuestro?
+
+Un atento observador hubiera podido notar que el asunto no era
+agradable al doctor, pero lo acogió alegremente, al parecer.
+
+--Mi pobre Utterson--le dijo--sois desgraciado tratándose de un cliente
+como yo. Jamás he visto á un hombre tan turbado como vos cuando mi
+testamento, excepción hecha del intratable pedante, el Doctor Lanyón,
+cada vez que habla de lo que llama mis herejías científicas. ¡Oh! bien
+sé que es un excelente compañero--no tenéis necesidad de fruncir el
+entrecejo--sí, un excelente compañero, y cada día deseo verlo más á
+menudo; pero, á pesar de todo es un intratable pedante; un pedante
+declamador é ignorante. Nunca me ha contrariado tanto un hombre como
+Lanyón, ni me he equivocado con otro, como con él.
+
+--Ya sabéis que jamás he aprobado vuestro testamento--dijo el Sr.
+Utterson, volviendo al tema de su conversación.
+
+--¿Mi testamento? Sí, ciertamente; lo conozco--añadió el doctor algo
+contrariado--ya me habíais hablado de eso.
+
+--Pues bien, os lo vuelvo á decir--continuó el jurisconsulto--he sabido
+algo respecto del tal Hyde.
+
+La ancha y hermosa cara del Doctor Jekyll palideció, y un círculo
+negruzco se dibujó alrededor de sus ojos.
+
+--No deseo oir nada más--exclamó;--pensaba que no volveríamos á hablar
+de esa cuestión, según lo teníamos convenido.
+
+--Lo que he sabido es horrible--dijo Utterson.
+
+--No puedo variar nada; no comprendéis mi situación--replicó el
+doctor, con cierta incoherencia.--Mi situación es penosa, Utterson;
+mi situación es verdaderamente extraña; muy extraña. Es uno de esos
+asuntos que no se pueden arreglar con palabras.
+
+--Jekyll--dijo Utterson--me conocéis; soy hombre en quien se puede
+confiar y á quien todo se puede decir. Decidme toda la verdad en
+confianza, y tengo la seguridad de poder sacaros de esa situación.
+
+--Mi buen Utterson--repuso el doctor--lo que hacéis es bueno, es
+francamente una gran bondad de vuestra parte, y no puedo hallar
+expresiones suficientes para daros las gracias. Os creo en absoluto,
+me fiaría de vos antes que de cualquiera otro hombre, antes que de
+mí mismo, si tuviese que escoger; pero no es lo que os imagináis; no
+es tan malo; y para tranquilizar vuestro buen corazón, os diré una
+cosa, y es que en el instante mismo que yo quiera, podré librarme,
+desembarazarme del Sr. Hyde. Dicho ésto, he aquí mi mano; gracias
+otra vez. Sin embargo, quiero añadir una palabra, Utterson, y estoy
+persuadido de que no la llevaréis á mal: ese es un asunto privado, y os
+ruego que lo dejéis dormir.
+
+Utterson reflexionó un momento, mientras seguía mirando al fuego del
+hogar.
+
+--No dudo que quizá tengáis razón--dijo, en fin, levantándose.
+
+--Pues bien, ya que hemos hablado de este asunto, y por última vez,
+según lo espero--siguió diciendo el doctor--hay un punto que desearía
+haceros comprender bien. Tengo, realmente, grandísimo interés por ese
+pobre Hyde. Sé que lo habéis visto; me lo ha dicho, y temo que haya
+sido grosero. Pero tengo afecto, muchísimo afecto por ese hombre;
+y si llego á perecer, Utterson, deseo que me prometáis sufrirlo y
+hacer valer sus derechos. Creo que lo haríais si lo supiéseis todo, y
+aliviaríais á mi espíritu de un gran peso si me lo prometiéseis.
+
+--No puedo asegurar, á pesar de todo, que llegue á quererle--dijo el
+abogado.
+
+--No es eso lo que os pido--contestó Jekyll, como si defendiese una
+causa, y apoyando la mano sobre el brazo de Utterson--no os pido más
+que justicia; os pido que le ayudéis por amor á mí, cuando yo no esté
+aquí.
+
+Utterson no pudo impedir que se le escapase un profundo suspiro.
+
+--Bien--dijo--lo prometo.
+
+
+
+
+EL CASO DEL ASESINO DE CAREW.
+
+
+Un año después, poco más ó menos, en el mes de octubre de 18**, la
+ciudad de Londres quedó horrorizada por un crimen que demostraba una
+brutalidad poco común, siendo el hecho más ruidoso aun á causa de la
+alta posición de la víctima. Una criada que vivía en una casa situada
+cerca del río, subía á acostarse hacia las once. Aunque la neblina
+había cubierto á la ciudad durante las primeras horas del día, la noche
+estaba clara, y la callejuela á la cual tenía vistas la ventana del
+cuarto de la criada, se hallaba brillantemente iluminada por la luz
+de la luna llena. Nuestra mujer tenía ideas románticas, pues se sentó
+sobre su baúl, que estaba colocado precisamente al lado de la ventana,
+y se entregó por completo á sus ensueños.
+
+Jamás--acostumbraba á decir, derramando lágrimas, cuando refería
+después el acontecimiento--jamás se había sentido tan en paz con
+todos los hombres, ni había tenido ideas tan buenas acerca del mundo.
+Hallándose sentada así, vió á un caballero de edad, de buen porte, con
+el pelo blanco, que caminaba casi rozando la pared de la callejuela; á
+su encuentro fué otro caballero, de pequeña estatura, en quien no había
+reparado ella al principio. Cuando llegaron bastante cerca uno de otro
+para poder hablar, el hombre de más edad se inclinó, acercándose al
+otro con la mayor deferencia.
+
+No pareció que el objeto de su pregunta fuese de grande importancia;
+y, según su manera de hablar, podía suponerse que sólo preguntaba
+el camino; la luna se reflejaba en su rostro mientras hablaba, y la
+muchacha se alegraba de verlo, porque parecía indicar un carácter
+ingénuo, con un no sé qué de altivo, y como de amor propio bien fundado.
+
+En esto, los ojos de la joven se volvieron hacia el otro personaje, y
+le sorprendió reconocer en él á un Sr. Hyde, que había una vez visitado
+á su amo, y cuya presencia le desagradó. Tenía en la mano un pesado
+bastón, con el cual jugaba; no contestó, y parecía apartarse con una
+impaciencia mal contenida. De pronto tuvo un terrible acceso de cólera,
+pateando, blandiendo el bastón y agitándose como un loco (según los
+términos mismos empleados por la criada). El señor anciano retrocedió
+un paso, como sorprendido y ofendido; pero el Sr. Hyde, arrebatado,
+le acometió á palos y lo derribó. Al mismo tiempo, y con la furia de
+un mono, pateó el cuerpo, y le descargó una lluvia de golpes bajo los
+cuales se rompían los huesos, rodando la víctima hasta el arroyo.
+Viendo aquellos horrores y oyendo los golpes, la muchacha perdió el
+conocimiento.
+
+Eran las dos de la madrugada cuando volvió en sí y fué en busca de la
+policía. El asesino había huído hacía ya tiempo, y la víctima yacía
+en medio de la callejuela, horriblemente mutilada. El bastón que
+sirvió para cometer el delito, aunque de madera dura, rara y pesada,
+estaba roto por la mitad á causa de los golpes dados con una ferocidad
+insensata; uno de los pedazos había quedado allí, y el otro debió,
+probablemente, llevárselo el asesino. Al registrar á la víctima, se
+le encontraron una bolsa y un reloj de oro, pero ninguna tarjeta ni
+papeles, salvo un sobre cerrado y sellado que iba, sin duda, á echar
+al correo y en el cual estaban escritos el nombre y las señas del Sr.
+Utterson.
+
+Aquel sobre fué llevado al abogado al día siguiente por la mañana,
+antes de que se levantase; así que lo vió y supo las circunstancias en
+que había sido encontrado, sus labios se contrajeron.
+
+--Nada diré hasta haber visto el cadáver--exclamó--esto puede ser muy
+serio. Servíos esperar á que me vista. Y con la misma cara impasible
+tomó su desayuno, y partió en coche hasta el vecino puesto de policía
+en donde se encontraba el cadáver.
+
+Tan pronto como entró en la celda, inclinó la cabeza y dijo:
+
+--Sí, le reconozco. Tengo el sentimiento de decir que es Sir Danvers
+Carew.
+
+--¡Dios mío! ¡será posible! caballero--exclamó el agente de policía. Y
+sus ojos brillaron con el fulgor de la alegría del oficio.--Este asunto
+hará ruido, y quizá podáis ayudarnos á encontrar al asesino.--Luego
+refirió rápidamente lo que había visto la criada, y enseñó el pedazo
+roto del bastón.
+
+Utterson se había extremecido ya al oir el nombre de Hyde; pero cuando
+le enseñaron el bastón no le quedó la menor duda; roto y todo, lo
+reconoció, por habérselo regalado hacía muchos años á Enrique Jekyll.
+
+--¿Es Hyde--preguntó el abogado--persona de pequeña estatura?
+
+--Es pequeño, y tiene muy mala mirada, según ha declarado la
+criada--añadió el agente.
+
+Utterson reflexionó; luego, levantando la cabeza, dijo:
+
+--Si queréis venir conmigo, en mi carruaje, creo poder llevaros á casa
+del asesino.
+
+Serían, entonces, las nueve de la mañana, y era el primer día de gran
+neblina de la estación. Un inmenso velo sombrío cubría la ciudad, pero
+el viento rompía de cuando en cuando aquellas nubes de vapor, y como
+el coche caminaba con precaución, Utterson pudo presenciar á su sabor
+un continuo cambio de sombras y de luz; pues ya la obscuridad era como
+al anochecer, ya se veía, por el contrario, una claridad viva como
+la que proyecta un incendio, y ya, por fin, la neblina se desvanecía
+completamente, y un descolorido rayo de luz penetraba por entre los
+torbellinos de nubes.
+
+El triste barrio de Soho, visto á través de aquellos rápidos claros,
+con sus calles enfangadas, sus transeuntes sucios, sus faroles
+encendidos para poder luchar contra aquella invasión de obscuridad,
+parecía en la mente del abogado como la parte de una ciudad presentada
+en una pesadilla, entrevista en sueños. Sus pensamientos, además, eran
+lúgubres, y al volver la vista hacia su vecino de coche, sintió algo de
+ese temor que inspiran siempre la ley y sus representantes, y que puede
+experimentar hasta el hombre más honrado.
+
+Cuando el carruaje llegó frente al número indicado, la neblina se
+disipó un poco y le dejó ver una calle sucia, una taberna, una casa
+de comidas de precio ínfimo, una tienda en donde vendían periódicos
+á cinco céntimos y lechugas á dos cuartos, muchos niños harapientos
+acurrucados en las puertas de las casas, y numerosas mujeres de
+distintas nacionalidades que iban y venían, llevando en la mano las
+llaves de sus cuartos, de donde salían para ir á tomar el trago de
+la mañana. Poco después, la neblina volvió á ser intensa, y se halló
+separado de todos aquellos desagradables cuadros.
+
+Allí estaba la residencia del favorito de Enrique Jekyll, de un hombre
+que debía heredar la cuarta parte de un millón de libras esterlinas.
+
+Una mujer de edad, de rostro pálido y cabello blanco, abrió la puerta.
+Tenía mala cara, aunque suavizada por la hipocresía, pero sus modales
+nada dejaban que desear.
+
+--Sí--dijo--aquí vive el Sr. Hyde, pero no está en casa.
+
+Añadió, que había llegado por la noche, muy tarde, y que había vuelto
+á salir haría poco menos de una hora; nada de particular había en eso;
+sus costumbres eran muy poco uniformes, y estaba á menudo ausente; en
+prueba de ello, dijo que hacía dos meses que no lo había visto, hasta
+la tarde del día anterior.
+
+--Perfectamente, deseamos ver su habitación--dijo el abogado--y como
+la mujer empezaba á manifestar que era imposible.--Bueno es que
+sepáis--continuó--que el señor es el inspector Newcomen del Distrito de
+Scotland.
+
+Un relámpago de siniestra alegría brilló en el rostro de la
+mujer.--¡Ah!--exclamó--¿tiene que habérselas con la policía? ¿Qué ha
+hecho?
+
+Utterson y el inspector cambiaron una mirada.
+
+--Parece que no es hombre muy popular--observó el inspector.--Y ahora,
+buena mujer, permitidnos hacer un examen minucioso de la habitación.
+
+En toda la extensión de la casa, que estaba enteramente vacía, salvo la
+presencia de la vieja, Hyde sólo ocupaba dos piezas, que se hallaban
+adornadas con lujo y buen gusto. Un armario estaba lleno de botellas
+de vino, la vajilla era de plata, la mantelería elegante, de la pared
+colgaba un buen cuadro, regalo (supuso Utterson) de Enrique Jekyll,
+quien era muy inteligente en pinturas, las alfombras gruesas y de
+colores agradables. Pero en aquel momento había en las dos habitaciones
+indicios numerosos de un desorden reciente y precipitado; se veían
+trajes en el suelo, con los bolsillos vueltos para fuera; en el hogar
+un montón de ceniza gris, como si hubiesen quemado muchos papeles. De
+entre las cenizas, calientes aún, sacó el inspector el lomo verde de un
+libro talonario de vales, que había resistido á la acción del fuego; la
+segunda parte del bastón roto se encontró detrás de la puerta; y como
+esto confirmaba las sospechas, el inspector se regocijó de ello. Una
+visita al Banco, en donde el asesino tenía un crédito de varios miles
+de libras, completó su satisfacción.
+
+--Podéis estar seguro, caballero--dijo el inspector á Utterson--de que
+caerá en mi poder. Es preciso que haya perdido la cabeza, pues de otro
+modo jamás hubiera dejado aquí el trozo del bastón roto, ni el pedazo
+del libro talonario. No tenemos más que esperarlo en el Banco, y mandar
+publicar los anuncios con su filiación.
+
+Sin embargo, esas señas no eran fáciles de dar, pues el Sr. Hyde
+tenía pocas intimidades; el amo de la criada sólo le había visto dos
+veces; no se tenía ninguna noticia respecto de su familia; jamás había
+sido fotografiado; y aquellas personas que pudieron describirlo,
+no estuvieron conformes en muchos puntos, como acostumbra suceder
+comunmente con los observadores inexpertos. Sólo convenían en una cosa,
+en esa idea vaga de una deformidad difícil de describir, que había
+llamado la atención de cuantos lo habían visto.
+
+
+
+
+INCIDENTE DE LA CARTA.
+
+
+Era ya muy entrada la tarde cuando Utterson llegó á la puerta de la
+casa del Doctor Jekyll, en donde fué recibido por Poole, quien lo
+condujo por las cocinas y atravesando un patio, que en otro tiempo
+fué jardín, hasta el edificio llamado indistintamente laboratorio ó
+gabinete de disección. El doctor había comprado aquella casa á los
+herederos de un célebre cirujano; pero como sus aficiones particulares
+le inducían más bien á la química que á la anatomía, había cambiado
+el destino del edificio situado al extremo del jardín. Era la primera
+vez que el abogado penetraba en aquella parte de las habitaciones
+de su amigo; examinó con curiosidad aquel edificio desaseado y sin
+ventanas; miró á su alrededor con extrañeza, mientras atravesaba la
+sala que antes se llenaba de estudiantes, y ahora se hallaba vacía
+y silenciosa. Las mesas estaban cubiertas materialmente de aparatos
+químicos, y el suelo de tarros y de manojos de paja. La luz bajaba
+obscura desde la cúpula, como en medio de una atmósfera nebulosa; en el
+extremo, unos cuantos escalones conducían á una puerta tapada con un
+lienzo rojo, y pasando por esa puerta, entró, en fin, Utterson en el
+gabinete del doctor. Era una pieza espaciosa, adornada con armarios con
+puertas de cristal, y entre cuyos muebles se veían un espejo grande,
+de cuerpo entero, y una mesa escritorio. Ese gabinete recibía luz
+por tres ventanas cubiertas de polvo, con vistas al patio. El fuego
+chisporroteaba en el hogar; una lámpara estaba colocada sobre la piedra
+de la chimenea, pues hasta dentro de la casa dejaba sentir sus efectos
+la neblina; muy cerca del fuego se hallaba sentado el Doctor Jekyll, al
+parecer, enfermo de cuidado.
+
+No se levantó para ir al encuentro de su amigo, pero le alargó una mano
+helada, y le dió la bienvenida con voz conmovida.
+
+--Y bien--le dijo Utterson, así que Poole se hubo marchado--¿ya sabéis
+la noticia?
+
+El doctor se estremeció.
+
+--La voceaban por el barrio--contestó.--Lo he oído todo desde mi
+comedor.
+
+--Una sola palabra--repuso el abogado--Carew era cliente mío, vos
+también lo sois, y deseo saber lo que debo hacer. ¿Habéis sido bastante
+loco para ocultar á ese hombre?
+
+--Utterson, juro por Dios--exclamó el doctor--que jamás volverán mis
+ojos á mirarlo. Os doy mi palabra de honor de haber concluído con él en
+este mundo. Todo tiene fin; y, en realidad, no necesita mi ayuda; no
+lo conocéis como yo; está en lugar seguro, enteramente seguro; atended
+bien á mis palabras, no volverá nunca más á tratarse de él.
+
+El abogado escuchaba con tristeza; la actitud febril de su amigo no le
+agradaba.
+
+--Parecéis estar muy seguro de él--le dijo--y por lo que os estimo,
+espero que tendréis razón. Si el asunto llega á los tribunales, vuestro
+nombre podrá salir á luz.
+
+--Estoy completamente seguro de él--replicó Jekyll;--para semejante
+certidumbre, tengo razones que no me es posible comunicar á nadie.
+Pero hay un punto respecto del cual podréis darme consejo. Tengo...
+he recibido una carta, y estoy dudando si debo ó no enseñarla á la
+policía. Desearía dejarla en vuestro poder, Utterson; vos juzgaréis
+la cosa con saber y prudencia, estoy cierto de ello; ¡tengo tanta
+confianza en vos!
+
+--¿Teméis, probablemente, que esa carta pueda llegar á hacerlo
+descubrir?--preguntó el abogado.
+
+--No--contestó el doctor--no puedo decir que me preocupe lo que ocurra
+á Hyde; he concluído enteramente con él. Sólo pensaba en mí mismo;
+hasta dónde podría exponerme ese deplorable asunto.
+
+Utterson reflexionó durante algunos instantes; le sorprendía el egoísmo
+de su amigo, y sin embargo, quedó en cierto modo tranquilo.
+
+--Pues bien--dijo--dejadme ver la carta.
+
+La carta estaba escrita con una letra extraña, casi perpendicular, y
+firmada: "Eduardo Hyde." Decía, en términos breves, que su bienhechor,
+el Doctor Jekyll, á quien desde tanto tiempo había recompensado tan
+indignamente las mil generosidades de él recibidas, no tenía que
+afligirse ni alarmarse en cuanto á su salvación, pues, para escapar,
+poseía medios en los cuales tenía absoluta confianza.
+
+La carta agradó bastante al abogado, porque parecía dar un color más
+favorable á la amistad que existía entre Hyde y Jekyll; y se censuró
+interiormente por algunas sospechas que había llegado á concebir.
+
+--¿Tenéis el sobre?--le preguntó.
+
+--Lo he quemado--repuso Jekyll--antes de reflexionar en lo que podía
+contener; pero no tenía sello de correo. La carta ha sido traída á la
+mano.
+
+--¿Debo guardar la carta y esperar á mañana para tomar una
+determinación?--preguntó Utterson.
+
+--Os ruego que juzguéis vos mismo y que obréis como os parezca
+mejor--le contestó;--he perdido toda confianza en mí mismo.
+
+--Bueno, examinaré la cosa--replicó el abogado--pero me queda todavía
+que haceros una pregunta. ¿Fué Hyde quien dictó las frases de vuestro
+testamento referentes á esa desaparición?
+
+Pareció que una gran debilidad se apoderaba del doctor; apretó los
+labios y bajó la cabeza.
+
+--Lo he sabido--dijo Utterson--tenía intención de asesinaros; ¡de buena
+habéis escapado!
+
+--Pero hay algo que me ha contrariado mucho más que el peligro; ¡oh!
+¡Dios mío, qué lección he recibido, Utterson!--Y se cubrió el rostro
+con ambas manos.
+
+Al salir, detúvose el abogado y cambió algunas palabras con Poole.
+
+--Decidme ¿han traído hoy una carta? ¿á quién se parecía el portador?
+
+Poole afirmó que nada habían llevado sino por el correo, y sólo
+circulares.
+
+Ante aquellas afirmaciones, Utterson volvió á experimentar sus
+antiguos temores. La carta habría llegado, sin duda, por la puerta del
+laboratorio. También era posible que hubiese sido escrita en el mismo
+gabinete del doctor; y en este caso, era preciso apreciarla de otro
+modo, examinarla con el mayor cuidado y con gran prudencia.
+
+En la calle, los chiquillos, vendedores de periódicos, gritaban con voz
+ronca: "¡Edición extraordinaria! ¡Horrible asesinato de un miembro del
+Parlamento!"
+
+Esa fué la oración fúnebre de un amigo y cliente; y el abogado no
+podía dejar de temer que la buena fama de otro de sus amigos se viese
+comprometida de rechazo en aquel escándalo. De todos modos, era una
+determinación difícil la que tenía que tomar, y aunque generalmente
+acostumbraba á fiarse de su propio discernimiento, comenzó á sentir la
+necesidad de pedir consejo á algún otro, si no directa, indirectamente.
+
+Poco después, estaba sentado junto á la chimenea de su cuarto, y el
+Sr. Guest, su primer pasante, enfrente de él, teniendo entre ambos,
+á una distancia bien calculada del hierro, cierta botella de vino
+añejo, especial, que durante mucho tiempo había permanecido en la cueva
+de la casa. La neblina se cernía aún sobre la ciudad, y los faroles
+encendidos brillaban como carbunclos. En medio de los ruidos de todas
+clases, que las espesas nubes hacían más sordos, la vida general de
+la ciudad seguía su curso ordinario en las grandes arterias, imitando
+el rugido poderoso de un fuerte viento. Pero, gracias á la lumbre, el
+cuarto tenía un aspecto alegre; el vino había llegado ya al grado de
+calor deseado; el rojo había adquirido con los años tonos más suaves,
+parecidos á los colores tamizados de las vidrieras ojivales; el ardor
+de las calientes tardes de otoño sobre las colinas plantadas de viñas
+iba á poder salir de su recipiente y dispersar las neblinas de Londres.
+Poco á poco el abogado se fué volviendo más expansivo. No había hombre
+para quien tuviese menos secretos que para el Sr. Guest; y hasta creía
+haberle confiado demasiados. Guest había ido á menudo á casa del
+doctor para tratar de asuntos; conocía á Poole; era imposible que no
+hubiese oído hablar de la familiaridad con que el Sr. Hyde era tratado
+en casa del doctor; por consiguiente, debía haberse formado una idea,
+una opinión; ¿no era, pues, conveniente, enseñarle una carta que podía
+explicar aquel misterio? Y, además, siendo Guest un buen estudiante
+y perito en autógrafos, consideraría aquel paso como muy natural y
+corriente.
+
+El pasante era, además, hombre de buen juicio; le hubiera sido difícil
+leer un documento tan extraño sin dejar escapar alguna observación, y
+según fuese ésta, podría Utterson orientar su futura conducta.
+
+--Es un triste suceso ese de Sir Danvers--dijo el abogado.
+
+--Sí, señor. Ha excitado vivamente el sentimiento público--repuso el
+Sr. Guest.--Aquel hombre debía estar loco.
+
+--Me gustaría saber vuestra opinión sobre eso--contestó
+Utterson.--Tengo aquí un documento en forma de carta... esto con
+reserva y entre los dos, pues ignoro aún lo que haré; de todos modos
+es un negocio feo, pero he aquí el documento; es nada menos que el
+autógrafo de un asesino.
+
+Los ojos de Guest brillaron; se recostó en la silla y leyó el documento
+con el mayor interés.
+
+--No, señor--dijo--no es de un loco, pero la letra es muy extraña.
+
+--Y según parece, el que lo escribió es también un hombre
+extraño--añadió el abogado.
+
+Precisamente en aquel mismo instante, entró el criado con una carta.
+
+--¿Es del Doctor Jekyll, señor?--preguntó el pasante;--me parece haber
+reconocido la letra. ¿Algún asunto privado?
+
+--Me invita á comer, nada más. ¿Por qué? ¿Queréis ver la carta?
+
+--Sí, permitidme por un momento.--Y el pasante colocó una al lado de la
+otra ambas hojas de papel, y las comparó cuidadosamente.
+
+--Gracias, caballero--dijo al fin, devolviéndole una y otra--es un
+autógrafo muy interesante.
+
+Se sucedió una pausa, durante la cual tuvo lugar una lucha en el ánimo
+del Sr. Utterson, que de repente preguntó al pasante:
+
+--Guest, ¿por qué habéis comparado esas dos cartas?
+
+--Pues bien, Sr. Utterson, hay entre ellas una rara semejanza; las dos
+letras son idénticas en muchos puntos; sólo difieren en su oblicuidad.
+
+--Es cosa original, ¿verdad?
+
+--Sí, señor, muy original--contestó Guest.
+
+--No pienso hablar á nadie de esta carta, ¿me entendéis?--dijo el
+abogado.
+
+--Sí, señor--contestó el pasante--ya comprendo.
+
+Tan pronto como Utterson se quedó solo, se apresuró á guardar el
+documento en la caja de hierro, en donde permaneció siempre.
+
+--¡Cómo!--pensó.--¿Será posible que Enrique Jekyll haya falsificado la
+letra de un asesino?--y la sangre se le heló en las venas.
+
+
+
+
+NOTABLE INCIDENTE DEL DR. LANYÓN.
+
+
+Transcurrió algún tiempo; ofreciéronse miles de libras esterlinas de
+recompensa, pues la muerte de Sir Danvers fué considerada por todos
+como un ultraje público, pero Hyde había desaparecido á pesar de las
+investigaciones de la policía, lo mismo que si jamás hubiese existido.
+Desentrañáronse, descubriéronse muchas cosas respecto de su vida
+pasada, y verdaderamente, el conjunto era vergonzoso. Refiriéronse
+historias sobre la crueldad á la vez insensible y violenta del hombre,
+sobre su vida abyecta, sus extraños conocidos, sobre el odio que
+había ido dejando tras sí; pero del momento presente, ni siquiera un
+indicio. Desde la mañana del asesinato, en que había dejado la casa de
+Soho, había desaparecido por completo; poco á poco, y con ayuda del
+tiempo, Utterson comenzó á reponerse de sus temores, y su tranquilidad
+fué aumentando. Á su juicio, la muerte de Sir Danvers se hallaba
+ampliamente compensada con la desaparición de Hyde. Ahora que aquella
+nefasta influencia no se ejercía, el Doctor Jekyll tenía una vida
+nueva. Dejó el encierro, reanudó las relaciones con sus amigos, volvió
+á ser su huésped familiar y su anfitrión, y como antes por su caridad,
+se hizo entonces notar por sus sentimientos religiosos. Estaba ocupado
+á menudo, fuera de su casa; tenía buena salud; su rostro parecía más
+franco, más dilatado, como si sintiese el golpe de rechazo del bien que
+hacía; y durante más de dos meses el doctor llevó una vida apacible.
+
+El ocho de enero, Utterson había comido en casa del doctor en compañía
+de un pequeño grupo de invitados, Lanyón entre ellos; las miradas
+del doctor se dirigían de unos á otros, como en otro tiempo, cuando
+formaban los tres un trío de amigos inseparables. El doce, y después el
+catorce, cerróse la puerta para el abogado: "el doctor está encerrado
+en sus habitaciones--decía Poole--y no recibe á nadie." El quince trató
+otra vez de entrar, pero obtuvo igual negativa; y como durante los dos
+meses que acababan de transcurrir, se había acostumbrado á ver á su
+amigo casi todos los días, aquella vuelta á la soledad influyó en su
+ánimo. Cinco días después convidó á Guest á comer, y al siguiente se
+decidió á ir á casa del Doctor Lanyón.
+
+Allí, á lo menos, no se le negó la entrada; pero desde que llegó junto
+al doctor, quedó sorprendido por el cambio operado en todo su ser. El
+doctor llevaba escrito en su rostro el signo de la muerte. Aquel hombre
+de tez sonrosada, se había vuelto pálido; sus carnes estaban caídas;
+distintamente se le veía más calvo y más viejo; pero no fueron sólo
+aquellas visibles pruebas de rápida decadencia física lo que llamaron
+la atención del abogado, sino más bien la mirada y la manera de ser del
+doctor, testimonio evidente de algún terrible espanto en su espíritu.
+Era poco probable que el doctor tuviese miedo á la muerte; así lo
+sospechó Utterson.--Es médico--pensó,--debe conocer su estado y saber
+que sus días están contados; y esa revelación es superior á lo que sus
+fuerzas le permiten soportar.--Y como Utterson le hizo notar su mala
+cara, el doctor con un acento de gran firmeza, le declaró que estaba
+perdido.
+
+--He sufrido un choque--dijo el doctor--y no volveré á recobrar
+nunca la salud. Es cuestión de algunas semanas. Sí, la vida ha sido
+agradable; la he querido; sí, señor, tenía el hábito de quererla.
+Pienso algunas veces, que si lo supiésemos todo, nos iríamos con más
+gusto.
+
+--Jekyll está enfermo también--indicó Utterson.--¿Lo habéis visto?
+
+Pero el rostro de Lanyón cambió, y levantó la mano temblorosa:
+
+--Deseo no volver á ver ni oir jamás hablar del Doctor Jekyll--exclamó
+con voz trémula.--Todo ha concluído entre él y yo, y os ruego que
+evitéis cualquier alusión á alguien á quien considero muerto.
+
+--Veamos--dijo Utterson, después de un largo silencio:--¿puedo seros
+útil para algo?--éramos tres viejos amigos, Lanyón; no viviremos lo
+bastante para tener otros.
+
+--No hay nada que hacer--repuso Lanyón--interrogadle más bien á él.
+
+--No quiere verme--contestó el abogado.
+
+--No me sorprende--añadió Lanyón;--quizá algún día, cuando yo haya
+muerto, sabréis, Utterson, lo fuerte y lo débil de todo esto. No puedo
+decíroslo ahora. Y además, si queréis permanecer sentado y hablar
+conmigo de otras cosas, por amor de Dios, quedáos y hablad; pero si no
+podéis evitar tocar ese asunto, ¡oh! entonces en nombre de Dios, idos,
+pues no puedo sufrir esa conversación.
+
+Así que regresó á su casa, Utterson escribió á Jekyll, quejándose de
+ser excluído, de no ser recibido por él, y preguntándole la razón de
+su desdichada ruptura con Lanyón. Al siguiente día, recibió una larga
+contestación, en la cual empleaba Jekyll expresiones muy patéticas, y
+á veces, con intención, términos obscuros y misteriosos. La disputa
+con Lanyón no tenía remedio ni arreglo. "No censuro á nuestro viejo
+amigo--escribía Jekyll--pero pienso como él, que no debemos volver á
+vernos. Desde ahora me propongo llevar una vida absolutamente retirada;
+no os sorprendáis y dudéis de mi amistad, si mi puerta está á menudo
+cerrada hasta para vos. Es preciso que me soportéis dejándome seguir
+mi sombrío camino. Llevo conmigo un castigo y un peligro que no puedo
+nombrar. Si soy el principal culpable, soy, también, la víctima
+principal. No creía que esta tierra pudiese contener un sitio para
+sufrimientos y terrores tan inhumanos; y vos, Utterson, no tenéis que
+hacer más que una cosa, aliviar mis sufrimientos, y para ello, respetar
+mi silencio."
+
+Utterson quedó pasmado; separada la nefasta influencia de Hyde, había
+vuelto el doctor á sus antiguas inclinaciones y amistades; hacía una
+semana que sus ojos se habían alegrado ante repetidas pruebas de una
+dulce y honrada vejez; y ahora, pocos instantes después, amistad,
+tranquilidad de espíritu, todo el orden de su vida quedaba roto de
+nuevo. Un cambio tan grande y tan imprevisto indicaba, evidentemente,
+locura. Pero recordando el estado y las palabras de Lanyón, debía haber
+en todo aquello algún misterio más grave.
+
+Una semana después, el Doctor Lanyón tuvo que meterse en cama, y antes
+de los quince días, murió. La tarde que siguió á los funerales, que
+le afectaron profundamente, Utterson abrió la puerta de su gabinete,
+y sentándose junto á la melancólica claridad de una luz, sacó de una
+gaveta y colocó enfrente de sí un sobre que le había sido dirigido por
+su difunto amigo, cerrado con su propio sello. Ese sobre llevaba la
+enfática inscripción siguiente: _Personal. Para ser entregado en manos
+del mismo Sr. Utterson solamente, y en el caso de haber fallecido
+antes que yo, para ser destruído sin leer su contenido._ El abogado
+temía abrirlo. "He enterrado á un amigo hoy--pensaba--¿qué sería si
+esto me costase otro?" Luego, considerando ese temor como un acto poco
+leal, rompió el sello. Pero había un segundo sobre, sellado lo mismo
+que el primero, y en el cual se hallaban escritas estas palabras: _No
+debe ser abierto antes del fallecimiento ó de la desaparición del
+Doctor Enrique Jekyll_. Utterson no podía creer lo que estaban viendo
+sus ojos. Otra vez la desaparición; otra vez, como en aquel insensato
+testamento que había devuelto hacía ya tiempo á su autor, la idea de
+desaparición y el nombre de Enrique Jekyll estaban juntos.
+
+Pero en el testamento, la idea de desaparición era debida á la
+siniestra sugestión de Hyde, estaba allí con un fin harto claro y harto
+horrible. Mas, en la pluma de Lanyón, ¿qué significaba aquella palabra?
+Una gran curiosidad se apoderó del fideicomisario; tuvo deseos de no
+atender á la prohibición y de penetrar hasta el fondo, en busca de
+todos aquellos misterios.
+
+Pero su profesión y la confianza que tenía en su difunto amigo le
+imponían severos deberes; de modo que el paquete fué á descansar en el
+más secreto cajón de su cofre particular.
+
+Si por una parte su curiosidad se hallaba mortificada, por otra
+parecía excitada con violencia; y casi puede dudarse si desde aquel
+momento deseó Utterson con igual vehemencia la sociedad del amigo
+superviviente. Pensaba en él con afecto, sin duda; pero sus ideas
+estaban perturbadas y eran temerosas. Fué á verlo, sin embargo; quizá
+se congratuló de no ser conducido hasta su presencia; quizá también,
+en el fondo de su corazón, prefería hablar con Poole en la escalera y
+en medio de la atmósfera y de los ruidos de la gran ciudad, á penetrar
+en aquella casa en donde reinaba una esclavitud voluntaria, y sentarse
+á hablar con su impenetrable prisionero. Poole, además, no tenía nada
+bueno que comunicarle. El doctor, al parecer, se encerraba más que
+nunca en su gabinete ó en el laboratorio, en donde llegaba algunas
+veces, hasta á quedarse dormido. Estaba muy triste; hablaba poco, no
+leía, y hubiérase dicho que pesaba algo sobre su ánimo. Utterson estaba
+ya tan acostumbrado á aquellas respuestas idénticas, que poco á poco
+fué disminuyendo las visitas.
+
+
+
+
+INCIDENTE DE LA VENTANA.
+
+
+Aconteció un domingo, que dando su acostumbrado paseo con el Sr.
+Enfield, la casualidad los condujo de nuevo á pasar por la callejuela;
+cuando llegaron frente á la puerta, ambos se detuvieron un instante
+para examinarla.
+
+--En fin--dijo Enfield--esa historia ha concluído. No volveremos á ver
+al Sr. Hyde.
+
+--Así lo creo--repuso Utterson.--¿Os he dicho que lo vi una sola vez y
+que experimenté la misma repulsión que vos?
+
+--Era imposible verlo sin experimentar ese sentimiento--añadió
+Enfield.--Y sea dicho de paso ¡por cuán tonto me habréis tenido, al
+saber que yo ignoraba que esta puerta trasera conducía á casa del
+Doctor Jekyll! Y por cierto que vos habéis sido la causa de que yo
+buscase y de que haya encontrado.
+
+--Habéis hallado, pues, la comunicación ¿no es verdad?--preguntó
+Utterson--y ya que la conocéis, ahora podríamos detenernos en el patio
+y echar un vistazo á las ventanas. Á deciros verdad, estoy inquieto
+respecto del pobre Jekyll; y hasta en mi interior siento una voz que me
+indica el bien que podría quizá procurarle la presencia de un amigo.
+
+El patio era muy frío y también un poco húmedo; reinaba en él un
+crepúsculo prematuro, aunque el cielo estaba aún brillantemente
+iluminado por los rayos del sol poniente.
+
+La ventana de el medio se hallaba entreabierta, y sentado detrás de
+ella, tomando el aire, con un rostro muy abatido, como el de un preso
+inconsolable, vió Utterson al Doctor Jekyll.
+
+--¡Hola! Jekyll--le gritó--supongo que estáis mejor.
+
+--Estoy muy decaído, Utterson--contestó el doctor tristemente, con voz
+apagada.--No será por mucho tiempo, gracias á Dios.
+
+--Permanecéis demasiado encerrado--siguió diciendo el
+abogado.--Deberíais salir para hacer ejercicio, como lo hacemos Enfield
+y yo. Es mi primo, el Sr. Enfield, el Doctor Jekyll.--Venid, poneos el
+sombrero y venid á dar una vuelta con nosotros.
+
+--Sois demasiado bueno--repuso el doctor;--bien lo quisiera; pero no,
+es enteramente imposible. No me atrevo. Pero, de veras, Utterson, me
+alegro que hayáis venido; es realmente una gran alegría para mí el
+veros. Quisiera preguntaros á vos y al Sr. Enfield, pero el lugar no es
+del todo conveniente.
+
+--¿Por qué?--exclamó el abogado con afabilidad;--lo mejor que podemos
+hacer es permanecer aquí abajo, y hablar con vos desde el sitio en que
+estamos.
+
+--Era precisamente lo que iba á atreverme á proponeros--replicó
+sonriendo el doctor. Pero pronunció las palabras con dificultad; y
+antes que la sonrisa hubiese desaparecido por completo de su cara,
+ésta expresó un terror y una desesperación tales, que nuestros dos
+caballeros sintieron helárseles la sangre en el cuerpo.
+
+Todo aquello duró nada más que un momento, pues la ventana fué cerrada
+instantáneamente; sin embargo, aquel instante les había bastado, y
+dieron media vuelta, saliendo del patio para cambiar algunas palabras.
+Atravesaron en silencio la callejuela, y sólo cuando llegaron á una
+calle inmediata, en la cual, á pesar de ser domingo, había alguna
+animación, fué cuando Utterson se volvió, por fin, hacia su amigo y lo
+miró.
+
+Ambos estaban pálidos, y había en sus ojos una expresión de horror tan
+grande, que decía bastante por sí misma.
+
+--¡Que Dios nos perdone! ¡Que Dios nos perdone!--exclamó Utterson.
+
+El Sr. Enfield hizo gravemente un signo con la cabeza, y siguió en
+silencio su camino.
+
+
+
+
+LA ÚLTIMA NOCHE.
+
+
+Una tarde, después de comer, Utterson estaba sentado junto al hogar,
+cuando quedó sorprendido por la visita de Poole.
+
+--¡Dios mío! ¿qué es lo que os trae aquí, Poole?--le dijo el abogado; y
+mirándolo de nuevo, añadió:
+
+--¿Qué os apena? ¿está enfermo el doctor?
+
+--Sr. Utterson--contestó el criado--hay algo que va mal.
+
+--Tomad asiento, y aquí tenéis un vaso de vino para vos--añadió
+Utterson.--Ahora, sin ninguna prisa, decidme con sinceridad lo que
+deseáis.
+
+--Conocéis la manera de vivir del doctor--empezó á decir Poole--y
+sabéis como se encierra. Pues bien, se ha encerrado de nuevo en su
+gabinete, y no me gusta eso. Sr. Utterson, estoy asustado.
+
+--Y ahora, mi buen Poole, ¿por qué estáis asustado? Hablad claro.
+
+--Me asusté hace una semana poco más ó menos--contestó Poole, evitando
+con algo de mal humor la pregunta que se le hacía--y no puedo ya
+soportar más la cosa.
+
+El aspecto del hombre justificaba completamente sus palabras; y salvo
+el instante en que por primera vez había hablado de su espanto, no
+había vuelto á mirar á la cara del abogado. Aun después, permanecía con
+el vaso apoyado sobre la rodilla, pero sin beber, y sus ojos se fijaban
+en un punto del techo.
+
+--No puedo soportar más tiempo eso--volvió á repetir.
+
+--Vamos--dijo Utterson--veo que tenéis un verdadero motivo para
+hablarme así, Poole; veo que hay algo que anda verdaderamente mal.
+Procurad decirme lo que es.
+
+--Creo que ha habido algún crimen--añadió Poole con voz ronca.
+
+--¡Un crimen!--exclamó el abogado muy asustado, y dispuesto á parecer
+más irritado aún--¿qué crimen? ¿qué queréis decir con eso?
+
+--No me atrevo á decirlo, señor, pero ¿queréis venir conmigo y verlo
+vos mismo?
+
+Por toda contestación, Utterson se puso en pie, tomó su sombrero y una
+capa de abrigo, y notó con sorpresa el rostro del criado, quien le
+pareció como aligerado de un gran peso; observó también, con no menor
+sorpresa, que el vino no había sido tocado.
+
+La noche era fría, noche propia del mes de marzo; la luna estaba pálida
+y en su último cuarto, como si el viento la hubiese volcado; algunas
+nubes rápidas y diáfanas corrían por el cielo. El viento furioso
+impedía hablar y cruzaba la cara; había, además, ahuyentado á los
+transeuntes y limpiado las calles de gente. Decía Utterson que no había
+visto nunca tan desierto aquel barrio de Londres, y no era precisamente
+lo que hubiera deseado en su interior; jamás durante toda su vida
+había sentido un deseo tan vivo de ver y tocar á sus semejantes, pues
+volviendo al curso de sus ideas lóbregas, tenía el presentimiento de
+que se encaminaba hacia una gran desgracia.
+
+Cuando llegaron á la plaza, todo estaba lleno de polvo; los árboles
+descarnados del jardín parecían fustigarse entre sí á lo largo del
+muro. Poole, que durante el camino se había adelantado uno ó dos
+pasos, se detuvo bruscamente en medio de la calle; á pesar del frío,
+se había quitado el sombrero y se secaba el sudor de la frente con un
+pañuelo encarnado. No obstante la rapidez de su marcha, no era el sudor
+producido por ella lo que enjugaba, sino el provocado por la angustia
+que le sofocaba, pues su rostro estaba pálido y su voz era dura y ronca.
+
+--En fin, señor--dijo--hemos llegado, y quiera Dios que no haya
+sucedido nada malo.
+
+--Amén, Poole--contestó el abogado.
+
+En esto, el criado llamó con precaución; abrieron la puerta, pero no la
+cadena, y una voz preguntó desde adentro:
+
+--¿Sois vos, Poole?
+
+--Yo soy--dijo Poole--abrid la puerta.
+
+El recibimiento estaba brillantemente alumbrado; un gran fuego
+ardía en la chimenea, y en derredor todos los criados, hombres y
+mujeres, confundidos, se estrechaban unos contra otros como un rebaño
+de carneros. Al ver al Sr. Utterson, una criada fué acometida de
+contorsiones histéricas; y el cocinero, exclamando:--¡Bendito sea Dios!
+es el Sr. Utterson--corrió hacia él como queriendo abrazarlo.
+
+--¿Qué hay? ¿Estáis todos aquí?--dijo el abogado con aire triste.--Es
+muy irregular, muy inconveniente, y disgustaría mucho á vuestro amo.
+
+--Todos están asustados--repuso Poole.
+
+Desconcertados, permanecieron callados, ninguno protestó contra
+aquellas palabras; la doncella sola dejó oir su ahogado llanto y sus
+gemidos.
+
+--Callad, de una vez--le dijo Poole, con un acento tan brutal que
+demostraba hasta qué punto tenía los nervios sobrexcitados; y
+realmente, cuando la doncella había lanzado gritos de desesperación,
+todos se estremecieron mirando la puerta interior, con espanto en los
+rostros.
+
+--Y ahora--añadió Poole dirigiéndose al mozo de cocina--dadme una luz,
+y vamos á saber la verdad de este asunto.
+
+Rogó al Sr. Utterson que le siguiese, y le enseñó el camino que
+conducía al jardín.
+
+--Andad lo más despacio que podáis--dijo Poole--y sin ruido; os ruego
+que escuchéis y que no dejéis oir nuestras pisadas. Tened cuidado,
+señor, de no entrar, si por casualidad os llamase.
+
+Ante esta inesperada recomendación, Utterson se extremeció y casi
+quedó desconcertado; pero pronto recobró su valor, y siguió al criado
+á través del laboratorio, de la sala de anatomía con sus vasos y
+sus botellas, y llegó al pie de la escalera. Poole le indicó que
+permaneciese á un lado y escuchase, mientras que él, dejando la luz,
+y apelando visiblemente á todo su valor, subió los peldaños, llamando
+con temblorosa mano, es decir, dando algunos golpecitos sobre la tela
+encarnada de la puerta del gabinete.
+
+--El Sr. Utterson desea veros, señor--dijo el criado; y al hablar hacía
+seña con viveza al abogado para que escuchase.
+
+Una voz contestó desde el interior:
+
+--Decidle que no puedo ver á nadie--y sus palabras parecían un largo
+quejido.
+
+--Gracias, señor--respondió Poole, con cierto acento de triunfo en la
+voz; y tomando otra vez la luz, condujo á Utterson por el patio hasta
+la gran cocina, en donde el fuego estaba apagado y los grillos saltaban
+por el suelo.
+
+--Señor--dijo mirando á Utterson--¿os parece que era aquélla la voz de
+mi amo?
+
+--Sí, parece haber cambiado mucho--contestó Utterson muy pálido, y
+mirándole también.
+
+--Cambiada, no cabe duda--añadió el criado.--¿Hubiera estado yo veinte
+años al servicio de mi amo para engañarme de ese modo respecto de su
+voz? No, señor, la voz de mi amo ha desaparecido y también él; ha sido
+muerto, hace ocho días, cuando le oímos gritar el nombre de Dios; ¿y
+quién está aquí en vez de él? ¿y por qué ese ser está aquí? Todo eso
+pide venganza ante Dios, Sr. Utterson.
+
+--He aquí una extraña relación, Poole, que más bien parece
+relación salvaje, mi buen hombre--dijo Utterson mordiéndose los
+dedos.--Supongamos que la cosa fuese tal cual la creéis; supongamos que
+el Doctor Jekyll haya sido asesinado, ¿por qué se empeñaría el asesino
+en permanecer aquí? Esa historia no se sostiene por sí misma; la simple
+razón se niega á creerla.
+
+--Bueno, Sr. Utterson, sois hombre difícil de convencer, pero sin
+embargo, llegaré á lograrlo--contestó Poole.--Es preciso que sepáis,
+que durante toda la última semana, él, ó sea quien fuere el que esté en
+aquel gabinete, gritaba noche y día para tener una especie de droga y
+no podía lograrla como la deseaba. Mi amo acostumbraba algunas veces
+á escribir sus órdenes en un papel y echarlo por los escalones. Desde
+hace una semana, eso es todo cuanto tenemos de él; nada más que papeles
+y una puerta cerrada; con respecto á los alimentos, colocados sobre
+los peldaños, iba á retirarlos á escondidas. Pues bien, señor, todos
+los días y aun dos ó tres veces en un día, he sido enviado corriendo á
+todos los drogueros de la ciudad. Cada vez traía el producto, pero otro
+papel me mandaba volver, porque no era puro y tenía otra orden para
+distinta casa. Necesita, pues, señor, en absoluto aquella droga por una
+razón cualquiera.
+
+--¿Tenéis alguno de esos papeles?--preguntó Utterson.
+
+Poole buscó en sus bolsillos y halló un papel arrugado, que el abogado
+examinó cuidadosamente acercándose á la luz. Su contenido decía lo
+siguiente: "El Doctor Jekyll saluda á los señores Maw, y les asegura
+que la última muestra es impura y no sirve para el objeto deseado. En
+el año de 18** el Doctor J. adquirió una cantidad bastante grande en
+casa de los señores M., y hoy les ruega que busquen con la exactitud
+más escrupulosa, y si quedase de igual calidad, que se la envíen
+inmediatamente. No hay que reparar en el precio. La importancia de
+la cosa para el Doctor Jekyll está por encima de cuanto pudiera
+decir." Hasta allí la carta estaba bastante correctamente escrita,
+pero entonces la emoción le había vendido, y hubiérase dicho que
+había materialmente aplastado la pluma contra el papel al añadir las
+siguientes palabras: "Por el amor de Dios, enviádmela de igual calidad
+que la antigua."
+
+--Es una extraña nota--dijo Utterson, y luego añadió con
+severidad:--¿cómo la habéis tenido abierta?
+
+--El dependiente del Sr. Maw estaba furioso, señor, y la echó hacia mí
+como si hubiese sido una cosa repugnante--repuso Poole.
+
+--¿Sabéis si esa nota es con seguridad de puño y letra del
+doctor?--preguntó el abogado.
+
+--He pensado que la letra se parecía á la suya--dijo el criado con tono
+áspero; y luego, cambiando de tono, añadió:--¿pero qué importancia
+puede tener una nota escrita, cuando le he visto á él en persona?
+
+--¿Le habéis visto?--repitió Utterson.--¿Y bien?
+
+--He aquí, he aquí la historia--prosiguió Poole.--Entré súbitamente
+en el laboratorio, yendo desde el jardín; creo que se había atrevido
+á salir en busca de esa droga ó de cualquier otra cosa, pues la
+puerta del gabinete estaba abierta, y él se hallaba en el fondo de
+la habitación revolviendo y escudriñando las viejas botellas. Me
+vió entrar, lanzó una especie de grito, y se volvió rápidamente al
+gabinete. No le vi más que un instante, pero los pelos se me pusieron
+de punta. Señor, si aquella aparición era mi amo, ¿por qué llevaba
+una careta sobre el rostro? Si era mi amo, ¿por qué había lanzado
+aquel grito y había huído de mí? Hace bastante tiempo que le sirvo; y
+luego...--Poole calló y se pasó la mano por la frente.
+
+--Realmente, son muy extraños esos detalles--dijo Utterson--pero creo
+entrever la verdad. Vuestro amo, Poole, se halla sin duda atacado por
+una de esas enfermedades que, á la vez torturan y deforman al enfermo;
+de ahí, por poco que yo sepa, la alteración de su voz; de ahí la
+máscara y su propósito de evitar la presencia de sus amigos; de ahí
+la pasión de buscar esa droga por medio de la cual el pobre hombre
+conserva alguna esperanza de curación. ¡Dios quiera que no se defraude!
+Esa es mi explicación; la cosa es bastante triste, Poole, y bastante
+sorprendente de considerar, pero se explica y es natural; todo ello
+concuerda bien, y nos saca de esas espantosas alarmas.
+
+--Señor--dijo el criado poniéndose alternativamente pálido y
+encarnado--aquella aparición no era mi amo, esa es la verdad. Mi
+amo--miró entonces á su alrededor y se puso á hablar en voz muy
+baja--es un hombre alto, bien constituído, y el otro era más bien un
+enano.
+
+Utterson trató de protestar.
+
+--¡Oh! señor--exclamó Poole--¿podéis pensar que no conozco á mi amo
+después de treinta años? ¿Pensáis que no sé á qué altura llega su
+cabeza en la puerta del gabinete, en donde le he visto todas las
+mañanas de mi vida? No, señor, esa cosa con máscara no ha sido nunca
+el Doctor Jekyll; sabe Dios lo que era, pero jamás ha sido el Doctor
+Jekyll; y nadie me quitará de la cabeza que ha debido de cometerse un
+crimen.
+
+--Poole--replicó el abogado--si habláis así, mi deber exige llegar
+hasta la certidumbre. Por más que deseo respetar los sentimientos de
+vuestro amo, me desconcierta esa nota, según la cual parece demostrado
+que vive todavía; considero como un deber romper aquella puerta.
+
+--¡Ah! Sr. Utterson, ¡eso se llama hablar!--exclamó el criado.
+
+--Y ahora viene la segunda pregunta--continuó diciendo
+Utterson;--¿quién romperá la puerta?
+
+--¿Cómo? vos y yo, señor--dijo valerosamente Poole.
+
+--Bien dicho--repuso el abogado--y suceda lo que quiera, yo cuidaré de
+que nada perdáis; dejadlo de mi cuenta.
+
+--Hay un hacha en el laboratorio--indicó Poole--y vos podéis tomar un
+hierro de la cocina.
+
+El abogado se apoderó de un grosero pero pesado instrumento, y
+moviéndolo, dijo á Poole que le estaba mirando:--¿Sabéis que vos y yo
+vamos á colocarnos en una situación que ofrece algún peligro?
+
+--Bien lo podéis decir, señor--contestó el criado.
+
+--Entonces es justo y conveniente que seamos francos. En nosotros dos,
+el pensamiento va más lejos que las palabras que nos hemos dicho;
+hablemos con claridad. Esa cara enmascarada que visteis, ¿la habéis
+reconocido?
+
+--Pues bien, señor, pasó tan rápidamente, la persona estaba tan
+inclinada, que no me atrevo á afirmar; pero si pensáis que fuese el
+Sr. Hyde, yo también me figuro que era él, pues aquel ser era de su
+tamaño, tenía el mismo andar rápido y ligero, y además, ¿quién sino él
+hubiera podido entrar por la puerta del laboratorio? No habéis olvidado
+sin duda, señor, que cuando ocurrió el asesinato, conservaba la llave
+consigo. Pero hay más aun. Ignoro, Sr. Utterson, si habéis visto alguna
+vez al Sr. Hyde.
+
+--Sí--contestó el abogado--he hablado una vez con él.
+
+--Entonces, debéis saber como todos nosotros, que había algo extraño
+en ese personaje, algo que trastornaba, no se cómo expresarme, señor;
+sentía uno frío hasta la médula de los huesos, al mirarlo.
+
+--Confieso que he experimentado una cosa parecida á lo que
+indicáis--contestó Utterson.
+
+--Pues bien--siguió diciendo Poole--cuando aquella cosa enmascarada,
+parecida á un mono, saltó en medio de los aparatos de química y se
+escurrió en el gabinete, sentí un frío terrible en la espalda. ¡Oh!
+bien sé que eso no es creíble, Sr. Utterson; soy bastante instruído
+para saberlo; pero el hombre tiene presentimientos y os aseguro que era
+el Sr. Hyde.
+
+--¡Ah! ¡ah!--exclamó el abogado--mis temores me hacen creer lo mismo.
+Temo que se oculte aquí una gran desgracia, que ocurriría sin duda, con
+semejante encuentro. Y, de veras, os creo; creo que el pobre Enrique ha
+sido asesinado y que su asesino (sólo Dios sabe con qué objeto) está
+aún oculto en el cuarto de su víctima. Pues bien, venguémosle. Llamad á
+Bradshaw.
+
+El lacayo contestó en el acto, pero muy pálido y muy nervioso.
+
+--Armáos de valor, Bradshaw;--dijo el abogado--el misterio que reina
+aquí es un peso para todos vosotros; queremos conocerlo. Poole y yo
+queremos penetrar, hasta empleando la fuerza, en el gabinete. Si todo
+va bien, soy bastante fuerte para responder de las consecuencias de
+esa fractura. Sin embargo, como puede haber debajo de todo eso algo
+obscuro y malo, ó bien que algún malhechor trate de huir por la puerta
+trasera, vos y otro criado id, dando vuelta por la calle, á colocaros á
+la puerta del laboratorio armados con buenos palos. Tenéis diez minutos
+para llegar á vuestro puesto.
+
+Cuando Bradshaw hubo salido, el abogado miró su reloj.--Ahora
+Poole--dijo al criado--vamos allá;--y llevando el hierro bajo el
+brazo, se dirigió hacia el patio. Las nubes habían ocultado la luna,
+y todo estaba completamente obscuro. El viento que llegaba como por
+bocanadas á aquel fondo de los edificios, agitaba la llama de la bujía
+mientras caminaban, hasta que estuvieron al abrigo, bajo el techo del
+laboratorio; sentáronse en silencio y aguardaron. Á su alrededor se oía
+el apagado murmullo de Londres; pero junto á ellos, sólo interrumpían
+el silencio y la tranquilidad los pasos que iban y venían dentro del
+gabinete.
+
+--Así es como anda todo el día--dijo Poole--y ¡ay! también parte de la
+noche. Únicamente se detiene un poco cuando llega un nuevo producto
+de la droguería. ¡Sólo una conciencia mala puede animar á semejante
+enemigo del descanso! ¡Ah! señor, ¡hay sangre vertida en cada uno de
+sus pasos! Pero escuchad con atención desde más cerca, y decidme si es
+ese el andar del doctor.
+
+Los pasos eran ligeros y extraños, como una especie de balanceo, pero
+muy apagados, y en nada se parecían al andar ruidoso y pesado del
+Doctor Jekyll. Utterson suspiró.
+
+--¿No hay nada más?--preguntó luego.
+
+Poole hizo un signo afirmativo con la cabeza--¡una vez--dijo--una vez
+le he oído llorar!
+
+--¿Llorar? ¿cómo puede ser?--exclamó el abogado extremeciéndose de
+horror.
+
+--Llorar como una mujer ó como un alma extraviada--añadió el
+criado.--Me fuí con el corazón tan enternecido que hubiera podido
+llorar también.
+
+Los diez minutos estaban para concluir. Poole sacó el hacha que se
+hallaba oculta bajo un montón de paja; colocaron la bujía sobre la
+mesa más próxima para alumbrarse durante el ataque; comprimiendo los
+latidos de sus corazones se acercaron al paraje en donde los pasos iban
+y venían en medio de la tranquilidad de la noche.
+
+--Jekyll--gritó Utterson con voz fuerte--quiero veros.--Detúvose un
+instante, pero nadie contestó.--Os doy un buen consejo; hemos concebido
+sospechas; es preciso que os vea y os veré--y moviéndose, añadió--si
+no por medios leales y honrados, será por medios violentos; si no lo
+permitís, entonces se empleará la fuerza bruta.
+
+--Utterson--dijo la voz--por amor de Dios, ¡piedad, piedad!
+
+--¡Ah! no es la voz de Jekyll, es la de Hyde--exclamó
+Utterson.--¡Poole, derribad la puerta!
+
+Poole blandió el hacha por encima del hombro; el golpe extremeció el
+edificio, y las colgaduras encarnadas quedaron pendientes sobre la
+cerradura y los goznes. Un grito horrible, como el de un verdadero
+animal espantado, resonó en el gabinete. El hacha dió un nuevo golpe;
+los tableros crujieron, el marco saltó; otras cuatro veces cayó
+el hacha, pero la madera era dura, y las diversas partes estaban
+completamente ajustadas; de modo que hasta el quinto golpe no quedó
+rota la cerradura y los trozos de la puerta echados hacia el interior
+de la estancia.
+
+Los vencedores, asustados de su obra, y del silencio que había
+sucedido, se retiraron un poco y miraron. El gabinete estaba á su vista
+con su lámpara tranquilamente encendida; un gran fuego llameaba y
+chisporroteaba en el hogar; la cafetera hervía junto á la lumbre. Una ó
+dos gavetas abiertas, papeles bien ordenados sobre la mesa escritorio,
+y más cerca del fuego, los utensilios preparados para el te; hubiérase
+creído que era el cuarto más tranquilo, y á no ser por los armarios
+brillantes llenos de botes y redomas, el lugar más vulgar de Londres
+aquella noche.
+
+Precisamente en medio de la habitación yacía el cuerpo de un hombre
+cuyas contorsiones se veían aún. Acercáronse en puntillas, pusiéronlo
+boca arriba, y reconocieron el rostro de Eduardo Hyde. Estaba vestido
+con ropas demasiado grandes para él; ropas que correspondían á la
+corpulencia del doctor; las fibras de su rostro se movían todavía con
+una semejanza de vida, pero la vida se había separado del hombre; el
+frasco roto que tenía en las manos, y el fuerte olor de almendras
+esparcido por el aire, probaron á Utterson que tenía delante de sí el
+cuerpo de un suicida.
+
+--Hemos llegado tarde--dijo con dureza--tanto para salvar como para
+castigar. Hyde ha pagado su deuda, y sólo nos queda que buscar el
+cuerpo de vuestro amo.
+
+La mayor parte del edificio se hallaba ocupada por el laboratorio que
+comprendía casi todo el piso bajo, y recibía luz por el techo, y por el
+gabinete que, en uno de los extremos formaba otro piso y tenía vistas
+al patio. Un corredor llevaba desde el laboratorio á la puerta de la
+callejuela, y ésta comunicaba, también, directamente con el gabinete
+por otra escalera.
+
+Hacia el otro lado no había más que cuartos obscuros y una gran
+despensa.
+
+Todos aquellos parajes fueron completamente examinados. Cada habitación
+podía verse con rapidez porque estaban llenas de objetos, y por el
+polvo que caía de las puertas al abrirlas, se comprendía que habían
+permanecido cerradas hacía mucho tiempo. La despensa estaba ocupada por
+objetos rotos puestos allí desde el tiempo del cirujano, predecesor
+de Jekyll, pero al tratar de abrir la puerta, se convencieron de la
+inutilidad de sus investigaciones por la caída de una inmensa tela de
+araña que desde años tapaba la entrada. En ningún punto había el menor
+rastro, la más ligera señal de Enrique Jekyll, ni muerto ni vivo.
+
+Poole dió con el pie fuertes golpes sobre las losas del corredor:
+
+--Es preciso--dijo, escuchando el ruido de los golpes que volvía como
+un eco--que esté enterrado aquí.
+
+--Ó puede haber huído--repuso Utterson, y fué á examinar de nuevo la
+puerta de la callejuela. Estaba cerrada; cerca de ella, sobre las losas
+del pavimento se hallaba la llave enmohecida ya.
+
+--Esta llave no parece haber servido--observó el abogado.
+
+--¿Haber servido?--repitió Poole con la exactitud de un eco--¿no veis,
+señor, que está rota? Diríase que alguien la ha pisado.
+
+--Y--siguió diciendo Utterson--los puntos rotos también están
+enmohecidos.
+
+Los dos hombres se miraron con espanto.
+
+--Todo eso, Poole, está por encima de mi inteligencia--dijo el
+abogado.--Volvamos al gabinete.
+
+Subieron la escalera sin hablar, y mirando con temor al cadáver,
+comenzaron á examinar con mayor atención los diversos objetos que había
+en el gabinete. Sobre una de las mesas se veían restos de preparaciones
+químicas; montoncitos de diferente tamaño de una especie de sal blanca
+estaban puestos en platos de cristal como si el desdichado hombre
+hubiese preparado alguna experiencia que quedó interrumpida.
+
+--Esa es precisamente la misma droga que yo iba siempre á
+buscarle--dijo Poole; y mientras hablaba, el agua del jarro se puso
+á hervir con más fuerza y se esparció por el suelo haciendo un ruido
+espantoso.
+
+Aquel incidente los llevó hacia el hogar, cerca del cual había sido
+colocado un cómodo sillón; los utensilios para el te estaban preparados
+junto al sillón, y el azúcar necesario, en la taza. Sobre una mesita
+veíanse varios libros; uno de ellos, abierto, figuraba al lado mismo de
+los utensilios para el te, y Utterson quedó sorprendido al ver que era
+una obra piadosa, respecto de la cual había expresado Jekyll más de
+una vez grandísima admiración; mas el libro contenía notas del propio
+puño del doctor, que eran horribles blasfemias.
+
+Continuando las investigaciones llegaron al espejo de cuerpo entero,
+en el cual se miraron, extremeciéndose á pesar suyo. El espejo estaba
+colocado de tal modo que no les dejaba ver nada más que el reflejo de
+las llamas rojas sobre el techo, el del fuego reproduciéndose cien
+veces sobre los tableros pulimentados de los armarios, y también sus
+propias personas pálidas y asustadas.
+
+--Este espejo ha debido ver extrañas cosas, señor--dijo Poole.
+
+--Pero de seguro que nada sería tan raro como ese ser--repuso el
+abogado casi con el mismo sonido de voz.--¿Con qué objeto tenía
+Jekyll...?--y la palabra se perdió en sus labios; pero luego, dominando
+su debilidad, añadió:--¿para qué tenía Jekyll necesidad de un espejo?
+
+--También me dirijo idéntica pregunta--contestó Poole.
+
+Luego fueron á la mesa escritorio. Sobre el pupitre, en medio de
+papeles colocados con orden, había un gran sobre, en cuyo sobrescrito,
+de puño del doctor, se leía el nombre del Sr. Utterson. El abogado lo
+abrió, y varios otros sobres cayeron al suelo. El primero contenía sus
+últimas disposiciones, redactadas en los mismos términos excéntricos
+que el testamento devuelto seis meses antes; eran un testamento para
+el caso de muerte, y una donación en el caso de desaparición; pero en
+vez del nombre de Eduardo Hyde, el abogado leyó con grandísima sorpresa
+el nombre de Gabriel Juan Utterson. Miró á Poole, después al papel y
+finalmente al cadáver del criminal que yacía en el suelo.
+
+--La cabeza me da vueltas--dijo--ha tenido este documento todos estos
+días en su poder; no tenía motivo ninguno para quererme; debió rabiar
+al verse desbancado, y no ha destruído el documento.
+
+Recogió otro papel; era una carta muy corta escrita de propio puño
+del doctor con una fecha en lo alto.--¡Oh! Poole--exclamó el
+abogado--estaba vivo aquí hoy mismo; no puede haber arreglado todo
+eso tan rápidamente; ¡debe estar vivo, debe haber huído! Pero ¿por
+qué haber huído? ¿Y cómo? En este caso ¿podemos exponernos á declarar
+el suicidio? ¡Oh! hay que pensar mucho en todo eso, pues preveo que
+podríamos conducir á vuestro amo á alguna espantosa catástrofe.
+
+--¿Por qué no leéis lo demás?--preguntó Poole.
+
+--Porque temo--repuso el abogado con tono solemne--¡quiera Dios que no
+tenga ningún motivo para temer!--y hablando así, acercó el papel á sus
+ojos y leyó lo siguiente:
+
+  "Querido Utterson: cuando estas líneas caigan en vuestras manos,
+  habré desaparecido; en qué circunstancias, no tengo la presidencia
+  requerida para preverlo, pero mi instinto y todas las condiciones
+  de mi indefinible vida me dicen que mi fin es seguro y debe estar
+  próximo. Id, pues, y leed primero la relación que Lanyón me ha
+  avisado haber dejado en vuestro poder, y si queréis saber más
+  todavía, leed después la confesión de vuestro indigno y desgraciado
+  amigo
+
+                                              ENRIQUE JEKYLL."
+
+--¿Hay otro sobre?--preguntó Utterson.
+
+--Aquí está, señor--dijo Poole entregándole un paquete cerrado con
+varios sellos.
+
+El abogado lo guardó en uno de sus bolsillos.--No hablaré de este
+paquete--añadió.--Si vuestro amo ha huído ó ha muerto, podemos á lo
+menos salvar su honor. Son las diez; debo volver á mi casa y leer con
+calma esos documentos; pero volveré antes de las doce, para enviar á
+buscar á la policía.
+
+Salieron, cerrando tras sí la puerta del laboratorio, y Utterson,
+dejando de nuevo á los criados reunidos alrededor del fuego en la
+antesala, regresó tranquilamente á su despacho para leer los dos
+documentos, en los cuales va á descorrerse el velo de este misterio.
+
+
+
+
+RELACIÓN DEL DOCTOR LANYÓN.
+
+
+"El nueve de enero, hace hoy cuatro días, recibí por el correo, en el
+reparto de la tarde, una carta certificada, cuyo sobre estaba escrito
+del propio puño y letra de mi colega y antiguo compañero Enrique
+Jekyll. Quedé sumamente sorprendido, pues no teníamos costumbre de
+corresponder por escrito; además, había visto al doctor el día anterior
+y comido con él, y no podía adivinar lo que en nuestras relaciones
+exigía las formalidades del certificado. El contenido de la carta
+aumentó aún mi sorpresa; hé aquí los términos en que se hallaba
+concebida:
+
+                                        "_10 de diciembre de 18**_
+
+  "QUERIDO LANYÓN: Sois uno de mis más antiguos amigos; aunque
+  hayamos tenido á veces discusiones sobre asuntos científicos,
+  no recuerdo, por lo que á mí se refiere, á lo menos, la menor
+  interrupción en nuestra amistad. Si hubiese llegado un día en que
+  me hubiéseis dicho:--Jekyll, mi vida, mi honra, mi razón se hallan
+  á vuestra merced, hubiera sacrificado mi fortuna y mi mano derecha
+  para ir en vuestra ayuda. Lanyón, mi vida, mi honra, mi razón se
+  hallan enteramente á vuestra merced; si me faltáis esta noche,
+  estoy perdido. Después de este prefacio vais á creer que necesito
+  pediros alguna cosa deshonrosa. Juzgad vos mismo.
+
+  "Vengo á rogaros que aplacéis todos los compromisos que podáis
+  tener para esta noche--aunque fuéseis llamado junto al lecho de
+  un emperador--que toméis un coche, y llevando con vos esta carta
+  para consultarla, que vengáis directamente á mi casa. Poole, mi
+  criado, tiene mis órdenes; estará aguardándoos con un cerrajero.
+  Será preciso forzar la puerta de mi gabinete; luego entraréis
+  solo; abriréis el armario que tiene un cristal (letra E), á la
+  izquierda, romperéis la cerradura si está cerrado; sacaréis, _con
+  todo su contenido, tal cual está_, la cuarta gaveta contando desde
+  arriba, ó lo que es igual, la tercera empezando á contar desde
+  abajo. En medio de mi extremada desesperación, tengo un temor
+  mortal de no indicaros bien las cosas; pero aunque me equivocase,
+  conoceríais la gaveta que necesito, examinando lo que contiene:
+  algunos polvos, un frasco y una carterita de apuntes. Os ruego que
+  llevéis con vos esa gaveta á la plaza de Cavendish, tal cual la
+  halléis.
+
+  "Esta es la primera parte del favor que os pido. Si partís así que
+  recibáis esta carta, deberéis estar de regreso mucho antes de media
+  noche; pero os dejo algunas horas de margen, no sólo por temor de
+  uno de esos obstáculos que no se pueden prever ni impedir, sino
+  también porque es preferible que haya llegado la hora del descanso
+  de vuestros criados para concluir lo que os quedará que hacer.
+
+  "Luego, á media noche, os ruego que permanezcáis solo en vuestro
+  gabinete de consulta, que conduzcáis hasta él á un hombre que
+  se presentará en mi nombre, y que le entreguéis la gaveta que
+  habréis llevado de mi casa. Entonces habrá concluído vuestro papel
+  y mereceréis mi más completa gratitud. Cinco minutos después, si
+  insistís deseoso de tener una explicación, comprenderéis que todas
+  estas precauciones tenían una importancia capital, y que el haber
+  descuidado una sola, por fantástica que pueda parecer, hubiera sido
+  cargar vuestra conciencia con mi muerte ó con la pérdida de mi
+  razón.
+
+  "Á pesar de la confianza en que estoy de que no os burlaréis de mi
+  ruego, mi corazón desfallece, y tiembla mi mano sólo con pensar
+  en semejante posibilidad. Acordaos de mí en esta hora, de mí que
+  estoy en una extraña situación, atormentado por la negrura de una
+  desgracia que ninguna imaginación podría llegar á exagerar; pensad,
+  también, que si queréis servirme con puntualidad, desaparecerá mi
+  turbación y todo ello no será más que una historia enterrada.
+
+  "Prestadme ese servicio, mi querido Lanyón y salvad á vuestro
+  amigo--E. J.
+
+
+  "P. S.--Había cerrado ya esta carta cuando un nuevo terror se
+  apodera de mi alma. Es posible que el correo cometa un error y que
+  esta carta no llegue á vuestras manos hasta mañana por la mañana.
+  En ese caso, querido Lanyón, cumplid mi encargo durante el día á
+  la hora que os sea más cómoda, y aguardad otra vez mi mensajero
+  á media noche. Pero quizá será demasiado tarde; y si transcurre
+  entonces la noche sin ninguna novedad, podréis decir que habéis
+  recibido la última noticia de,
+
+                                              ENRIQUE JEKYLL."
+
+Al leer aquella carta me convencí de que mi colega estaba loco; pero
+hasta que la cosa no ofreciese género ninguno de duda, decidí ejecutar
+lo que me pedía. Cuanto menos comprendía yo todo aquel fárrago, menos
+me hallaba en el caso de juzgar de su importancia, y tal petición
+dirigida en semejantes términos, no podía ser rechazada sin incurrir
+en grave responsabilidad. Me levanté inmediatamente de la mesa y fuí
+á buscar un carruaje que me condujo directamente á casa de Jekyll.
+El criado aguardaba mi llegada; había recibido por el mismo correo
+que yo un pliego certificado que contenía sus instrucciones, y envió
+á buscar en el acto á un cerrajero y un carpintero. Ambos obreros
+llegaron mientras estábamos hablando, y fuimos todos juntos á la sala
+de disección del viejo Doctor Denman, por el extremo de la cual, según
+lo sabéis probablemente, se entra con mayor comodidad en el gabinete
+particular de Jekyll. La puerta era muy sólida, la cerradura excelente;
+el carpintero confesó que tendría mucho trabajo y que haría mucho
+destrozo, si tenía que emplear la fuerza; el cerrajero llegó á creer
+que no podría descerrajarla, pero era un hábil obrero, y después de dos
+horas de trabajo, quedó abierta la puerta.
+
+El armario señalado con la letra E no estaba cerrado; saqué la gaveta,
+la hice rellenar con paja y envolver en papel, llevándomela á la plaza
+de Cavendish.
+
+Así que llegué, me puse á examinar su contenido. Los polvos estaban
+bastante bien arreglados, pero no con el cuidado de un químico
+fabricante ó vendedor, de modo que, á no dudarlo, habían sido
+manipulados personalmente por el Doctor Jekyll. Abriendo uno de los
+sobres, vi que su contenido se parecía, sencillamente, á una sal
+cristalizada de color blanco. El frasco, que examiné después, estaba
+lleno hasta la mitad; contenía un licor rojo, con un olor muy agrio,
+con algo de fósforo y éter volátil. En cuanto á los otros ingredientes,
+no pude saber lo que eran. El cuaderno ó carterita de apuntes era como
+casi todos los que usan los colegiales, y sólo contenía unas cortas
+series de fechas. Esas fechas se extendían á un largo período de años,
+pero observé que las entradas habían cesado hacía un año poco más
+ó menos, y bruscamente. Aquí y allí, se veía añadida alguna breve
+observación, á una fecha, que generalmente era nada más que la palabra
+_doble_, que se hallaba repetida quizá seis veces en un total de
+algunos centenares de entradas; una vez, enteramente al principio de la
+lista, y seguidas de algunos signos de admiración, estaban las palabras
+_fracaso total_.
+
+Todo esto, aunque excitando mi curiosidad, me decía poco respecto del
+objeto final. Un tarro con cierta tintura, un papel con una sal, el
+diario de una serie de experimentos que, (como ocurría á menudo con
+las investigaciones de Jekyll), no conducía á nada práctico. ¿Por qué
+razón la presencia en mi casa de esos varios objetos podía afectar á
+la honra, ó al estado del espíritu, ó á la vida de mi ligero colega?
+Si su mensajero podía ir á un punto ¿por qué no podía ir á otro? Y
+aunque hubiese alguna imposibilidad, ¿por qué ese caballero tenía que
+ser recibido en secreto? Cuanto más reflexionaba en todo eso, más me
+convencía de que me hallaba en presencia de una enfermedad cerebral;
+sin embargo, al ordenar á mis criados que se recogiesen, fuí á buscar
+un viejo revolver, para encontrarme en estado de defensa personal, si
+hubiese sido necesario.
+
+Las doce acababan apenas de sonar en Londres cuando el picaporte se
+dejó oir muy despacio. Fuí á abrir yo mismo, y encontré á un hombre de
+pequeña estatura vuelto de espaldas á los pilares de la entrada.
+
+--¿Venís de parte del Doctor Jekyll?--le pregunté.
+
+Me contestó que sí, con aire encogido; cuando le dije que entrase, no
+me obedeció sin haber lanzado antes una mirada escudriñadora hacia
+la plaza sumida en la obscuridad. Un agente de policía estaba cerca,
+y venía con su linterna sorda abierta; al verlo creí notar que el
+desconocido tembló y que se apresuró á entrar.
+
+Estos incidentes me sorprendieron, no lo ocultaré, de un modo
+desagradable; no perdí de vista á mi hombre, gracias á la luz
+brillante que había en mi sala de consultas, y puse la mano sobre
+el arma para estar prevenido á todo evento. En fin, tuve la suerte
+de verlo. Jamás, es absolutamente cierto, mis ojos lo habían visto
+antes. Era pequeño, según he dicho; me sorprendió la expresión de su
+fisonomía, en la que podía leerse una curiosa mezcla de grandísima
+actividad muscular y de indudable debilidad de constitución; por
+último, me sorprendió todavía más la penosa turbación subjetiva que me
+producía su vecindad; y fué de género tal, que mis miembros parecían
+helarse y que el pulso latía con menos violencia. Atribuí entonces
+aquellas sensaciones á alguna repugnancia idiosincrásica y personal;
+pero á pesar de todo, me sorprendía la vivacidad de mis impresiones,
+si bien desde aquella fecha he tenido motivos para pensar que su causa
+yacía muy profundamente oculta en la naturaleza misma de aquel hombre,
+y que me movía algún pensamiento más noble que el odio.
+
+Esa persona, que desde el instante en que entró había producido en mí
+una sensación que sólo puedo definir llamándola _curiosidad mezclada
+con repugnancia_, estaba vestida de un modo que hubiera sido ridículo
+en cualquiera otro individuo; su traje, aunque era, en realidad, de un
+género rico y de color obscuro, parecía enorme, inmensamente grande
+para él, bajo todos conceptos; sus pantalones colgaban de las piernas
+y habían sido recogidos para preservarlos del lodo; el chaleco le
+llegaba muy abajo de las caderas, y el cuello de la levita se extendía
+demasiado ancho sobre los estrechos hombros. Por extraño que fuese,
+aquel burlesco traje no me hizo reír. Al contrario, como había un no sé
+qué de anormal y de contrahecho en el ser que tenía á la vista, algo
+que sobrecogía, que sorprendía y que escandalizaba en su repugnancia
+misma, aquella nueva originalidad confirmaba mis ideas y les daba
+fuerza; llegó casi á interesarme la naturaleza y el carácter del
+hombre, y sentí curiosidad de saber su origen, su vida, su fortuna y
+la posición que ocupaba en el mundo.
+
+Aunque estas observaciones requiriesen mucho tiempo para analizarlas,
+se me ocurrieron en el espacio de algunos segundos. El desconocido
+demostraba arder en una sombría impaciencia.
+
+--¿La habéis traído?--exclamó--¿la habéis traído?
+
+Y era tal su impaciencia que puso la mano sobre mi brazo, tratando de
+sacudirlo.
+
+Lo rechacé, habiendo experimentado á su contacto como una sensación
+glacial en toda mi sangre.
+
+--Vamos, caballero--le dije--olvidáis que no tengo el gusto de
+conoceros; permaneced sentado, si gustáis.
+
+Le dí ejemplo, sentándome en mi sillón habitual, con la misma
+tranquilidad que si hubiese tenido que habérmelas con un enfermo
+cualquiera; tan tranquilo, á lo menos, como me lo permitían la hora
+avanzada, la naturaleza de mis preocupaciones y el horror que me
+inspiraba mi huésped.
+
+--Os pido perdón, Doctor Lanyón--contestó bastante cortesmente;--vengo
+aquí á ruego de vuestro compañero el Doctor Enrique Jekyll, para un
+asunto de cierta importancia, y quería decir...
+
+Detúvose, y se llevó la mano á la garganta, reparando por su acción que
+luchaba contra los síntomas de un ataque de histeria.
+
+--Quería decir, una gaveta...
+
+Tuve entonces compasión del estado del desconocido, y quizá también
+llevado por mi curiosidad, contesté:
+
+--Aquí está;--le enseñé la gaveta que estaba en el suelo detrás de una
+mesa y cubierta con el lienzo.
+
+Saltó hacia el lado de la gaveta, luego se paró, y llevó una mano al
+corazón; oí rechinar sus dientes; su rostro era tan horrible de ver,
+que me alarmé, y temí á la vez por su vida y su razón.
+
+--Reponéos--le dije.
+
+Volvióse á mí, me dirigió una sonrisa atroz, y como un desesperado
+descubrió la gaveta. Al ver lo que contenía lanzó un gemido ahogado y
+un grito de alivio tal, que permanecí petrificado. Un instante después,
+con voz ya algo más tranquila, me dijo:
+
+--¿Tenéis un vaso graduado?
+
+Me levanté de mi asiento no sin dificultad, y le entregué lo que pedía.
+
+Diome las gracias con un gesto adecuado, midió algunas gotas de la
+tintura encarnada y añadió uno de los polvos. La mezcla, que al
+principio era de un color rojizo, á medida que los cristales se
+deshacían comenzó á adquirir un color más vivo, á hervir visiblemente,
+luego echó como una nubecilla de vapor. De pronto, cesó la ebullición,
+y la mezcla adquirió un color de púrpura obscuro, pasando después
+lentamente á un verde agua. El desconocido, que había seguido con
+mirada muy atenta todas aquellas metamórfosis, se sonrió, colocó el
+vaso sobre la mesa, y volviéndose hacia mí y mirándome con un aire muy
+grave, me dijo:
+
+--Ahora hay que tomar una determinación en cuanto á lo que resta que
+hacer. ¿Queréis ser prudente? ¿queréis ser conducido? ¿queréis que me
+lleve este vaso en la mano y que salga de vuestra casa sin decir una
+palabra más? ¿Ó bien vuestra curiosidad exige otra cosa? Reflexionad
+antes de contestar, pues se hará lo que mandéis. Si queréis, quedaréis
+como antes, tal cual estáis ahora, ni más rico ni más sabio, á menos
+que la conciencia de haber prestado un servicio á un hombre puesto en
+un apuro mortal, no pueda ser considerada como una especie de riqueza
+espiritual. Ó si preferís escoger el otro camino, un nuevo reino de
+ciencia, nuevas vías que conducen á la fama y al poderío os serán
+abiertas, aquí ante vos, en este cuarto, al instante mismo; vuestra
+vista quedará confundida por un prodigio que haría vacilar, que
+conmovería la incredulidad del mismo Satanás.
+
+--Señor--contesté, haciendo creer en una calma y tranquilidad que
+estaba lejos de tener--habláis con enigmas, y no os sorprenderá el
+que escuche vuestras palabras sin darles mucho crédito; pero he ido
+demasiado lejos al prestar esos servicios inexplicables, para detenerme
+antes de haber visto el final.
+
+--Bien está--replicó el desconocido.--Lanyón, recordáis vuestros
+juramentos; lo que va á acontecer se halla colocado bajo el sagrado
+secreto de nuestra profesión. Y ahora, vos, que desde largo tiempo
+estáis encadenado á las concepciones más estrechas y más materiales,
+vos que habéis negado la virtud de la medicina trascendental, vos que
+habéis hecho burla de vuestros superiores, ¡mirad!
+
+Llevó el vaso á los labios y bebió su contenido de un solo trago. Á
+esto siguió un grito; bamboleó, tropezó, cogió la mesa para apoyarse,
+y continuó sus movimientos, con los ojos extraviados é inyectados
+en sangre, la boca abierta y espumosa; y mientras que yo miraba, se
+producía un cambio, según mi imaginación; íbase hinchando, su rostro se
+volvió negro de repente y las líneas fisonómicas parecieron fundirse
+y modificarse, y un instante después, me puse en pie, retrocedí hasta
+la pared, con un brazo extendido hacia adelante como para defenderme
+contra aquel milagro, y con mi espíritu anonadado por el terror:--¡Oh,
+Dios!--exclamé aterrorizado;--¡Oh, Dios!--dije varias veces; ¡pues
+allí, delante de mi vista, pálido, tembloroso, medio desfallecido,
+palpando con las manos como un hombre que acaba de resucitar, estaba
+Enrique Jekyll!
+
+Lo que me dijo durante la hora siguiente me es imposible reconcentrar
+suficientemente el espíritu para escribirlo. Vi lo que vi, oí lo que
+oí, y mi alma iba enfermando; y hoy que aquella visión se borra de mis
+ojos, me pregunto á mí mismo si creo en ella, y no puedo contestar. Mi
+vida está resentida hasta en los cimientos; un terror mortal se apodera
+de mí continuamente, noche y día; comprendo que mis días están contados
+y que es preciso morir; y lo que es más, moriré incrédulo.
+
+En cuanto á la ignominia moral que ese hombre enseñó ante mí, ni con
+lágrimas de penitencia, podría, ni aun como recuerdo, pensar en ella
+sin estremecerme de horror. Sólo puedo decir una cosa, Utterson, y será
+(si podéis creerla cierta) más de lo necesario.
+
+Ese ser que se arrastró aquella noche por mi casa, era, según confesión
+del mismo Jekyll, conocido bajo el nombre de Hyde y perseguido en todos
+los rincones del país como asesino de Carew.
+
+                                               HASTIE LANYÓN."
+
+
+
+
+EXPLICACIÓN COMPLETA DEL CASO EXTRAÑO DEL DR. ENRIQUE JEKYLL.
+
+
+Nací en el año de 18**, heredero de una gran fortuna, dotado con
+excelentes cualidades; mi naturaleza me inducía al trabajo, estimaba
+mucho la consideración de aquellos de mis compañeros que me parecían
+prudentes y buenos, en una palabra, hasta donde era posible creerlo,
+poseía las condiciones necesarias para tener un porvenir honroso y
+distinguido. En realidad, el peor de mis defectos era una tendencia
+excesiva hacia la alegría, lo que causa el júbilo en otros, pero
+difícil de conciliar con mi vivo deseo de llevar la frente alta y
+afectar en público una actitud más seria de la que generalmente
+tienen los otros hombres. De ahí resultó que comencé á ocultar mis
+diversiones y placeres, y cuando llegué á la edad en que se piensa y
+reflexiona, empecé á mirar á mi alrededor y á considerar la próspera
+posición que ocupaba en el mundo. Me sentí ya destinado á una profunda
+duplicidad en mi manera de vivir. Más de uno hubiera tenido á gloria
+las irregularidades de que era yo culpable, pero desde el alto punto
+de vista en el cual me había colocado, las miraba y las ocultaba con
+una sensación de vergüenza casi mórbida. De modo que fué más bien
+la naturaleza exigente de mis aspiraciones, que ninguna clase de
+degradación particular en mis faltas, lo que me llevó á ser cuanto
+fuí, lo que con un surco más hondo del que ordinariamente existe para
+la mayor parte de los hombres, dividió en dos, en mi ser, aquellas
+provincias del bien y del mal, que parten y forman el dualismo de
+la naturaleza humana. En tal estado de ánimo, me vi inclinado á
+reflexionar profundamente y sin descanso respecto de esa dura ley
+de la existencia que reposa sobre las bases de la religión y que es
+una de las causas de la desgracia de nuestra raza. Á pesar de ser
+en modo tan absoluto un hombre de doble faz, no era hipócrita en la
+acepción que se da á esta palabra; las dos partes de mi _yo_ eran
+ambas verdaderamente serias. No era más _yo_ en realidad, cuando
+arrojando todo freno, obraba vergonzosamente, que cuando, á la luz del
+día, trabajaba para aumentar mis conocimientos, ó cuando procuraba
+aliviar á los desgraciados y á los enfermos. La casualidad quiso que la
+orientación de mis estudios científicos, que me guiaban absolutamente
+hacia lo místico y trascendental, diese de rechazo ejerciendo como una
+fuerza de repulsión, y me hiciese comprender, iluminándolo con mayor
+claridad, ese estado de perpetua lucha entre las distintas partes de
+mi ser. Cada día, y desde el doble punto de vista de la moral y de la
+inteligencia, llegaba con mayor seguridad al conocimiento de aquella
+verdad, cuyo descubrimiento parcial me arrastró á este espantoso
+naufragio: á saber que el hombre no es realmente una entidad, sino que
+existen dos entidades en él. Digo dos, porque el estado de mi propia
+ciencia no me ha permitido pasar de ahí. Otros me seguirán, otros irán
+más allá en esa vía; y aventuro, y me atrevo á emitir la opinión de que
+ulteriormente se reconocerá que el hombre es una simple aglomeración
+de diversos individuos sin ninguna relación entre sí. En cuanto á mí,
+por la misma naturaleza de mi vida, adelanté forzosamente en una sola y
+única dirección.
+
+En el ser moral y en mi propia persona aprendí á conocer el perfecto
+y primitivo dualismo del hombre; vi que, de las dos naturalezas que
+parecían satisfechas en la extensión de mi conciencia, aunque hubiese
+podido realmente ser la una y la otra, era únicamente porque, en
+absoluto, tenía ó poseía las dos á la vez; y desde aquel momento,
+antes de que hubiese comenzado la marcha de mis descubrimientos
+científicos á sugerirme la más evidente posibilidad de semejante
+milagro, había aprendido á insistir con placer, como en un sueño
+despierto, en la idea de la separación de esos dos elementos. "Si--me
+decía á mí mismo--cada uno de ellos pudiese estar domiciliado en
+entidades diferentes, la vida se hallaría desembarazada de todo cuanto
+la hace insoportable; lo injusto seguiría su camino, libre de las
+aspiraciones y de los remordimientos de la parte gemela, de la parte
+más virtuosa; y lo justo podría á su vez viajar segura y constantemente
+por sus elevados senderos, llevando á cabo el bien que le llenaría de
+satisfacción, y sin verse expuesto á los disgustos y remordimientos
+que le ocasionarían los actos de la parte extraña y mala. Fué,
+pues, destino fatal de la humanidad ver unir esos haces opuestos y
+disparatados, y que en la matriz agonizante de la conciencia, aquellas
+dos estrellas polares estuviesen luchando continuamente. ¿Cómo,
+entonces, podrían ser separadas?"
+
+Á ese punto había llegado en mis reflexiones cuando, según he dicho
+ya, una luz inesperada comenzó á brotar sobre este asunto, de la
+mesa del laboratorio. Empecé á concebir de un modo más profundo que
+hasta entonces la vacilante inmaterialidad, el paso aún obscuro de
+un estado á otro, de ese cuerpo que parece tan sólido y en el cual
+caminamos con todos nuestros adornos. Hallé ciertos agentes que poseen
+el poder de separar y de rechazar esa vestidura carnal, como el viento
+posee el de agitar los lienzos de una tienda de campaña. Pero por dos
+excelentes razones no entraré completamente de lleno en esta parte
+científica de mi confesión. Primero, porque he aprendido que los
+hombros del hombre deben para siempre jamás soportar el destino y la
+carga de nuestra vida, y si llega á efectuarse alguna tentativa para
+separar á los dos elementos, sólo servirá para aumentar su peso de un
+modo más desagradable y más terrible. Y después, porque (mi relación
+lo demostrará ¡ay! harto claramente) mis descubrimientos no eran
+completos. Me bastará, por consiguiente, decir que no sólo reconocí que
+mi cuerpo natural era el fantasma y el éter de algunos de los poderes
+que componían mi espíritu, sino que llegué á inventar una pócima con
+la cual esos poderes podían perder su supremacía, y reemplazarlos con
+una segunda forma, que era tan natural como la primera, tan _yo_ como
+la otra, porque constituía la manifestación misma de los más bajos y
+despreciables elementos de mi alma.
+
+Vacilé mucho tiempo, antes de someter esta teoría á la prueba de la
+práctica. Sabía perfectamente que me exponía á morir, pues una droga
+que debía medirse con tanta exactitud y sacudir, conmover la verdadera
+fortaleza de la individualidad, podía con el menor aumento en la dosis,
+ó por la inoportunidad del momento escogido para el experimento, hacer
+desaparecer para siempre el envoltorio inmaterial que no deseaba yo
+cambiar. Pero la tentación de un descubrimiento tan original y tan
+importante concluyó por hacerme vencer los temores y alarmas. Tenía
+la pócima preparada hacía ya tiempo; compré de una vez, en casa
+de un droguero, gran cantidad de una sal especial que, después de
+mis experimentos, sabía yo que era el último producto necesario; y
+finalmente, en una noche maldita, reuní los ingredientes, vigilé su
+ebullición, los vapores que salían del vaso, y cuando cesó el hervor,
+en un arranque de valor, bebí la pócima.
+
+Terribles angustias se apoderaron de mí; crujidos de huesos, náuseas
+mortales, y un horror del alma que no puede ser mayor en la hora
+de la muerte ó del nacimiento. Luego, aquellos instantes de agonía
+comenzaron á disminuir gradual y lentamente, y volví en mí como si
+hubiese salido de una grave enfermedad. Había algo extraño, algo nuevo
+é indescriptible en mis sensaciones, y su novedad real las hacía
+extraordinariamente dulces y gratas. Me sentía más joven, más feliz
+en todo mi ser; en mi fuero interno experimentaba como una audacia
+embriagadora, tenía á la vista un mundo de imágenes sensuales que
+corrían con la misma rapidez que el agua al salir de un molino;
+sentíame desligado de los lazos de toda obligación, y tenía una
+libertad de alma desconocida, pero no inofensiva. Desde el primer
+aliento de aquella nueva vida, me consideré malo, diez veces más
+malo, esclavo de mi genio maléfico original; y estas ideas, en aquel
+instante, me fortalecían y me embriagaban como hubiera podido hacerlo
+el vino. Alargaba las manos con la alegría de disfrutar, de acariciar
+unas sensaciones tan nuevas, y al hacerlo, pude observar que mi
+estatura había disminuído.
+
+No había, entonces, espejo en mi gabinete; el que está cerca de mí
+mientras escribo estas líneas, fué puesto allí más tarde con objeto de
+ver esas transformaciones.
+
+Sin embargo, hacía ya tiempo que la noche había cedido su puesto á la
+mañana, y la mañana obscura como estaba, iba á desvanecerse ante la
+claridad del día. Los inquilinos de mi casa estaban encerrados en sus
+habitaciones, durante esas horas tan necesarias al sueño. Decidime,
+hinchado como me hallaba por la esperanza y el triunfo, á llegar con
+mi nuevo envoltorio hasta mi cuarto de dormir. Atravesé el patio, lo
+que permitió á las constelaciones lanzar sus reflejos sobre mí, pues
+podía imaginar, con admiración, que era la primera criatura de esa
+especie que hubiese aparecido á su vigilancia siempre despierta; me
+escurrí por los corredores, como un extraño en su propia casa, y vi por
+vez primera el aspecto exterior de Eduardo Hyde.
+
+Es preciso que hable aquí desde el punto de vista teórico solamente,
+sin decir lo que sé, sino lo que supongo que debe ser más probable.
+La parte mala de mi ser, á la cual había dado ahora mi vida propia,
+era menos robusta y menos desarrollada que la parte buena. Además, en
+el curso de mi existencia que, en sus nueve décimas partes, después
+de todo, ha sido una vida de esfuerzos, de virtudes y de vigilancia,
+ese lado malo había sido mucho menos ejercitado y puesto de relieve
+que el otro. Y de ahí resultaba, según infiero, que Eduardo Hyde era
+mucho más pequeño, más delgado y más joven que Enrique Jekyll. Así como
+el uno llevaba sobre el rostro el resplandeciente sello del bien, el
+otro tenía escrito sobre su cara el sello de la maldad. La maldad, que
+no debe considerarse aún como causa del carácter mortal del hombre,
+había impreso en aquel cuerpo signos de deformidad y de decadencia.
+Y cuando miré, entonces, en el espejo aquel ídolo perverso, tuve
+conciencia, no de un sentimiento repulsivo, sino más bien de la brusca
+transición producida y del buen éxito de mis tentativas. Aquel ídolo,
+por lo demás, era yo mismo. Parecía natural y humano. Para mí, tenía
+á la vista una imagen más viva del espíritu; había allí más expresión
+y originalidad que en el ser imperfecto y doble, hasta aquel momento
+acostumbrado á llamar _yo_; é indudablemente tenía razón. Observé
+que cuando aparecía bajo la apariencia de Eduardo Hyde, nadie podía
+aproximárseme sin experimentar primero un extremecimiento visible,
+en todo su cuerpo. Eso, según comprendí, procede de que todos los
+seres humanos, tal cual los vemos, son un compuesto de bien y de mal;
+únicamente Eduardo Hyde, en las filas de los humanos, era puramente
+malo sin mezcla ninguna.
+
+Permanecí por algunos momentos delante del espejo, pero faltaba
+intentar todavía el último experimento, el decisivo; quedaba por saber
+si había perdido yo mi identidad, sin esperanza de recobrarla, y tenía
+que esconderme de la luz del día y salir de una casa que ya no era
+mía; y apresurándome á volver á mi gabinete, preparé inmediatamente
+la pócima necesaria, y bebí: sufrí otra vez las angustias de una
+descomposición, y volví á ser yo mismo, con el carácter, la estatura y
+el rostro de Enrique Jekyll.
+
+Aquella noche llegué pues al fatal encuentro de los distintos caminos
+de la vida; si hubiese trabajado mi descubrimiento con un espíritu
+más elevado, si hubiese intentado la experiencia bajo el influjo de
+aspiraciones generosas y piadosas, las cosas hubieran ido de otro
+modo, y hubiera salido yo de aquellas agonías del nacimiento y de la
+muerte como un ángel, en vez de haber salido de ellas como un demonio.
+La poción, en suma, era una cosa neutra; quiero decir que no era ni
+diabólica ni divina; no hacía más que sacudir las puertas de mi cárcel
+y de mi estado de ánimo; y como los presos de Filipi, lo que estaba
+encerrado se escapaba fuera. En aquel momento mi virtud se durmió, y mi
+genio malo, al contrario, despertado por la ambición, estaba alerta y
+dispuesto para aprovechar las ocasiones, y sus esfuerzos traían siempre
+á Eduardo Hyde. Así pues, aunque tuviese dos caracteres y dos rostros,
+uno era absolutamente malo, y el otro era siempre el viejo Enrique
+Jekyll, compuesto disparatado que ya desesperaba de poder perfeccionar
+y mejorar. Sus aspiraciones actuales lo empujaban enteramente hacia el
+mal.
+
+Pero ni aún en aquel instante, había podido dominar la aversión que me
+inspiraba esa conocida aridez de la vida estudiosa. En ciertos momentos
+tenía todavía inclinaciones favorables al júbilo y á la alegría; como
+mis placeres eran (empleando la palabra más benévola) deshonestos, y
+como no sólo era mejor conocido y más considerado, sino que llegaba
+á ser también hombre de edad, aquella incoherencia en mi vida me era
+cada día más importuna, por eso mi nuevo poder me tentó para el bien
+hasta que caí sumido en la esclavitud. Bastábame con beber la copa,
+para despojar al conocido profesor y vestir el burdo traje, el cuerpo
+de Eduardo Hyde. Esa idea me agradaba, me hacía sonreir; la cosa me
+parecía cómica; y hacía los preparativos con el cuidado más atento
+y minucioso. Alquilé y amueblé aquella casa de Soho, en donde Hyde
+fué perseguido por la policía, y tomé como guarda á una mujer que me
+constaba ser callada y no tener escrúpulos. Por otra parte, dije á mis
+criados que un señor Hyde, cuyas señas les dí, tenía plena libertad
+y poder para entrar y salir en mi casa; y para prevenir cualquier
+acontecimiento desagradable, hice visitas á casa del Doctor Jekyll y
+pasé como familiar suyo.
+
+Luego escribí aquel testamento contra el cual opusísteis tantas
+observaciones, y que me permitía, si algo me ocurría en la persona del
+Doctor Jekyll, entrar en la de Eduardo Hyde sin pérdida pecuniaria.
+Tranquilizado así respecto del porvenir, comencé á aprovechar las
+extrañas inmunidades de mi situación.
+
+Ha habido hombres antes que yo, que pagaron asesinos para hacer
+ejecutar sus crímenes, dejando á cubierto su propia personalidad y
+su reputación; pero yo he sido el primero que ha podido obrar así en
+cuanto á sus placeres. He sido el primero que ha podido aparecer ante
+el público con su carga de respetabilidad, y un instante después,
+como un colegial, despojarme de aquellos disfraces y arrojarme sin
+miramientos en un océano de libertades.
+
+Bajo mi impenetrable envoltura, mi salud era completa, excelente.
+Pensad en ello: ¡ni siquiera existía! Bastaba que pudiese penetrar por
+la puerta de mi laboratorio, tener dos ó tres segundos para preparar
+y beber la pócima que estaba siempre lista, y fuese cualquiera cosa
+lo que hubiese hecho Eduardo Hyde, desaparecía como la señal del
+aliento sobre un cristal; y allí, en vez de Hyde, tranquilo en su casa,
+arreglando su lámpara para la noche, se hallaba un hombre que hubiera
+podido burlarse de toda sospecha dirigida contra él, Enrique Jekyll en
+persona.
+
+Los placeres que me apresuraba á buscar con mi disfraz, eran, como ya
+lo he dicho, deshonestos, por no emplear una palabra más severa, y con
+un ser tal cual era Eduardo Hyde, no tardaron en adquirir un carácter
+monstruoso. Cuando regresaba de mis excursiones, quedaba estupefacto
+de la depravación de la otra parte de mi ser. El demonio familiar
+que sacaba de mi propia alma y que enviaba solo á sus placeres,
+era un ser profundamente malévolo y vil; todos sus actos, todas sus
+ideas no tenían más objetivo que su egoísmo; tenía placer en una sed
+bestial de torturar á sus semejantes; sin entrañas, como una estatua
+de piedra. Había instantes en que Enrique Jekyll estaba horrorizado
+de los hechos de Eduardo Hyde; pero la situación se hallaba fuera de
+las leyes ordinarias, y gradualmente la influencia de la conciencia se
+fué relajando. Después de todo, Hyde era el culpable, únicamente Hyde.
+Jekyll no era peor que antes; sus buenas cualidades se despertaban
+y aparecían en él sin haber disminuído, y procuraba cuando le era
+posible, remediar los daños causados por Hyde; y así, su conciencia
+dormitaba.
+
+No me propongo referir circunstanciadamente las infamias en que me vi
+mezclado ó complicado, pues ni aun hoy puedo admitir que fuese yo quien
+las cometió. Sólo quiero mencionar los avisos y las etapas sucesivas
+que me anunciaban la aproximación del castigo. Ocurrióme primero un
+incidente, que, como no tuvo consecuencias, me limitaré á indicar
+nada más. Un acto de crueldad contra una niña excitó la cólera de un
+transeunte que reconocí el otro día como uno de vuestros parientes: el
+médico y la familia de la criatura se unieron á él; hubo un instante
+en que temí por mi vida; pero finalmente, para calmar su harto justo
+resentimiento, Eduardo Hyde se vió obligado á llevarlos hasta la puerta
+de la casa del Doctor Jekyll, y á darles un vale girado á la vista con
+el nombre de este último. Pero ese peligro quedó fácilmente evitado
+para el porvenir, abriendo una cuenta en otro Banco á nombre de Eduardo
+Hyde; y haciendo mi letra con una caída más oblicua, había dado una
+firma doble á mi otro ser, y creí de aquel modo ponerme á cubierto
+contra todo ataque de la fatalidad.
+
+Dos meses antes del asesinato de Sir Danvers, había andado en busca
+de aventuras; regresé tarde, y desperté al siguiente día presa de
+raras sensaciones. Miré en vano á mi alrededor, y en vano vi los ricos
+adornos y las grandes líneas de mi cuarto; en vano, también, reconocí
+los dibujos de las colgaduras de mi cama y su marco de caoba; algo me
+decía continuamente que no estaba en donde estaba realmente, sino que
+debía estar en el pequeño cuarto de Soho, en donde tenía costumbre
+de dormir en el cuerpo de Eduardo Hyde. Me sonreí, y con mis ideas
+psicológicas empecé á estudiar perezosamente los principios y los
+datos de semejante ilusión, y resultó que, pensando en ello, volví
+á caer en el dulce sueño de la mañana. Estaba aún medio dormido, y
+accidentalmente fijé la vista en mis manos. La mano de Enrique Jekyll,
+como habéis podido verlo á menudo, era la mano de un médico en cuanto á
+forma y tamaño; era grande, sólida, blanca y bien proporcionada; pero
+la mano que vi entonces, bastante claramente á pesar de la luz pálida
+de la mañana, medio oculta como se hallaba sobre la colcha, aquella
+mano era descarnada, huesosa, de una palidez mate, y cubierta de
+abundantes pelos negros. Era la mano de Eduardo Hyde.
+
+Debí permanecer como medio minuto contemplándola, y quedé tan anonadado
+de admiración y de sorpresa, que el terror tardó en despertarse en
+mi pecho, pero despertó súbitamente y me produjo un estremecimiento
+parecido al que se experimenta al oir un inesperado redoble de
+tambores; salté de la cama y fuí á mirarme al espejo. Al ver lo que
+éste me enseñó, mi sangre casi se heló en las venas. Sí, me había
+acostado como Enrique Jekyll, y me despertaba cambiado en Eduardo
+Hyde. ¿Cómo explicar semejante transformación? Dirigíme esa pregunta,
+y luego, con otro estremecimiento de espanto, ¿cómo remediarla? Era ya
+muy entrada la mañana; los criados estaban levantados; todas mis drogas
+se encontraban en el gabinete, era preciso un largo viaje para ir hasta
+él, bajar dos pisos, atravesar un corredor, el patio abierto y la sala
+de anatomía, lo cual me asustaba. Podía, es verdad, taparme la cara,
+¿pero de qué me hubiera servido, puesto que no podía ocultar el cambio
+de mi estatura? Luego, con indecible alegría recordé que los criados
+estaban ya acostumbrados á las idas y venidas de mi otro yo. Vestíme
+pronto lo mejor que pude, con el traje de mi estatura ordinaria;
+atravesé rápidamente la casa y tropecé con Bradshaw, quien me miró
+sorprendido, apartándose al ver á Mr. Hyde á aquella hora y con aquel
+traje; diez minutos después, el Doctor Jekyll había recobrado su forma
+habitual, y estaba sentado, con la frente sombría, para aparentar que
+almorzaba.
+
+Mi apetito era realmente bien excaso. Ese incidente inexplicable, esa
+contradicción en mis experimentos previos, parecían, como los dedos
+babilónicos sobre la pared, escribir los términos y las letras de
+mi sentencia. Comencé á reflexionar más seriamente de lo que hasta
+entonces, sobre el fin y sobre los acontecimientos posibles de mi
+doble existencia. La parte de mi ser que tenía yo el poder de producir,
+estaba más fortalecida y más nutrida; hasta me parecía que desde algún
+tiempo hacía, el cuerpo de Eduardo Hyde había ganado en estatura,
+cuando me hallaba bajo aquella forma, tenía conciencia de que la
+sangre circulaba más generosa por sus venas, y comenzaba á entrever
+el peligro de que si ese estado se prolongaba, el equilibrio de mi
+doble naturaleza podría quedar definitivamente destruído, anonadado el
+poder de un cambio á voluntad, y que el carácter de Eduardo Hyde sería
+finalmente el mío. El poder de la pócima no había tenido siempre igual
+resultado. Un día, al principio de mis transformaciones, su efecto
+había sido completamente nulo; desde entonces tenía con frecuencia
+que doblar la dosis, y una vez, hasta con riesgo de mi vida, tuve que
+ponerla triple; estos fracasos, aunque raros, habían contribuído á
+nublar algo mi alegría. Pero ahora, advertido por el accidente de la
+mañana, llegué á observar que, así como al principio la dificultad
+había consistido en echar fuera el cuerpo de Enrique Jekyll, había
+ido poco á poco cambiando de aspecto, y consistía ahora en desalojar
+á la otra individualidad. Todo parecía, pues, conducirme á la misma
+conclusión, á saber, que perdía lentamente mi poder sobre mi ser
+primitivo, el mejor, el superior, y que con la misma lentitud me iba
+incorporando en el segundo y el peor.
+
+Comprendía que era preciso escoger entre esos dos seres. Mis dos
+naturalezas tenían una memoria común, pero en cuanto á las otras
+facultades, estaban desigualmente compartidas. Jekyll (que era una
+mezcla) sufriendo á veces los temores más vivos y los apetitos más
+ávidos, se complacía tomando parte en los placeres y aventuras de
+Hyde; pero Hyde era indiferente para con Jekyll, ó sólo se acordaba de
+él como el bandido de las montañas se acuerda de las cuevas en donde
+se oculta cuando lo persiguen. Jekyll tenía más que el interés de un
+padre; Hyde tenía más que la indiferencia de un hijo. Identificarme
+con Jekyll, era renunciar á esos apetitos por los cuales había tenido
+siempre la mayor indulgencia y que desde algún tiempo acá empezaba á
+acariciar. Identificarme con Hyde, era renunciar á mil intereses y
+ambiciones, y volver á ser de golpe y para siempre un ser despreciable
+y privado de toda amistad.
+
+El contrato podía parecer desigual, pues había aún otra consideración
+que tener en cuenta; mientras que Jekyll sufriría el martirio y se
+quemaría vivo á causa de su abstinencia, Hyde ni siquiera tendría
+conciencia de lo que habría perdido. Por extrañas que sean las
+circunstancias en que me encuentro, los efectos de este dualismo son
+tan viejos y tan vulgares como el hombre mismo; pues son poco más ó
+menos los mismos apetitos y los mismos temores los que hacen titubear
+al pecador apasionado y tembloroso, y sucede conmigo lo que con el
+mayor número de mis semejantes, y es que escojo la mejor parte, sólo
+que me falta firmeza para persistir en mi resolución.
+
+Sí, prefería al doctor anciano y descontento, rodeado de amigos y
+de esperanzas honradas y envidiables; dije resueltamente adiós á la
+libertad, á la juventud (si se tenía en cuenta mi edad), al andar
+ligero, al ardiente hervir de la sangre, á los placeres juveniles,
+cosas de las cuales disfrutaba bajo el disfraz de Hyde. Tomé este
+partido, no quizá sin ninguna reserva mental, pues no abandoné la
+habitación de Soho ni destruí los trajes de Eduardo Hyde, que están
+siempre en mi gabinete, dispuestos para ser puestos en uso. Durante dos
+meses, sin embargo, fuí sincero en mi determinación; durante dos meses,
+seguí una vida de una severidad tal cual nunca había llegado antes á
+observar, y me regocijaba con las compensaciones que me proporcionaba
+mi conciencia. Pero andando el tiempo, la impresión de mis temores
+concluyó por desvanecerse; las alabanzas de la conciencia empezaron
+á ser únicamente cosa vulgar; comenzaron á torturarme dolores y
+deseos apasionados, como si Hyde luchase para recobrar su libertad; un
+día, en un instante de decaimiento moral, compuse de nuevo la bebida
+transformadora, y la absorbí de un trago.
+
+No creo que, si un borracho discute ó raciocina consigo mismo respecto
+de su vicio, haya sido detenido ó impedido, de cada quinientas veces
+una sola, por los peligros que va á correr á causa de la insensibilidad
+bestial y física en que va á sumirse; jamás tampoco, al examinar
+mi situación, me había dado cuenta de la completa insensibilidad
+moral, y de aquella increíble tendencia hacia el mal, que eran los
+puntos característicos del genio de Eduardo Hyde. También por ahí fuí
+castigado. Mi demonio había permanecido mucho tiempo enjaulado, y
+salió rugiendo de su encierro. Tenía yo conciencia, sin embargo, en
+el momento mismo en que bebí la pócima, de aquella tendencia hacia el
+mal, más desenfrenada, más furiosa. Supongo que debe atribuirse á esa
+excitación de mi alma, la violencia y la impaciencia con las cuales
+escuché las atentas palabras de mi desgraciada víctima; quiero á lo
+menos confesarlo delante de Dios: es imposible que un hombre moralmente
+sano haya podido hacerse culpable de ese crimen tras una provocación
+tan insignificante; quiero declarar, también, que herí con una idea tan
+falta de razón como la que puede tener un niño enfermo que despedaza
+un juguete. Pero me había despojado voluntariamente á mí mismo de
+todos esos instintos que hacen vacilar, y que obligan al peor de los
+hombres á conservar cierta compostura, aun cuando se deje arrastrar por
+sus malas pasiones; en mi estado, tener una tentación, por ligera que
+fuese, era caer, sucumbir.
+
+El espíritu infernal despertó instantáneamente en mí con furor. Con
+un verdadero transporte de júbilo molía á palos aquel cuerpo que no
+oponía resistencia, y producía delicioso gozo en mi ser cada golpe que
+descargaba; sólo cuando vino el cansancio fué cuando repentinamente,
+en medio de mi acceso de locura, me llegó al corazón una fuerte
+sensación de terror. La neblina que cubría mi vista se disipó, y
+comprendí que mi vida iba á ser deshonrada; huí lejos del teatro de
+tales excesos, radiante de gloria y temblando á un mismo tiempo,
+satisfecha y estimulada mi pasión por el mal, y con el amor de la vida
+subido al más alto grado.
+
+Corrí á la casa de Soho y, para librarme mejor de cualquier
+persecución, destruí mis papeles; luego salí; paseé por las calles,
+que alumbraban los faroles, llevando la misma alegría en mi espíritu,
+regocijándome de mi crimen, con el juicio bastante claro y dispuesto
+para preparar otros, pero con los ojos y el oído atentos, temiendo los
+pasos de algún vengador.
+
+Hyde tenía una canción en los labios cuando preparó la pócima, y al
+tomarla, bebió á la salud de su víctima.
+
+Apenas habían concluído las angustias de la transformación, Enrique
+Jekyll vuelto á su propio ser caía de rodillas con un torrente de
+lágrimas de gratitud y de remordimiento, elevando hacia Dios sus manos
+cruzadas. El velo que ocultaba mi indulgencia se rasgó de arriba á
+abajo; volví á ver mi vida entera; la vi desde los días de la infancia,
+cuando me paseaba dando la mano á mi padre, la vi otra vez en medio
+de los trabajos austeros de mi profesión, y llegué finalmente, con un
+sentimiento de incredulidad, hasta los espantosos horrores de aquella
+noche. Hubiera podido ponerme á gritar, pero busqué en el llanto y
+en la oración el medio de borrar las figuras asquerosas y los ruidos
+espantables que volvían á mi memoria para anonadarme; y continuamente,
+en medio de mis oraciones, el rostro malo de mi iniquidad me miraba
+hasta las profundidades del alma.
+
+Cuando el vivo dolor de esos remordimientos comenzó á calmarse,
+llegué poco á poco hasta ideas menos tristes. Lo que tenía que hacer
+en adelante era sencillo. Hyde no podía volver para el porvenir;
+queriéndolo ó sin quererlo yo, estaba desde aquel momento encerrado
+en la parte mejor de mi existencia, y ¡cuánto me complacía esa idea!
+¡Con qué humildad voluntaria me felicitaba por hallarme de nuevo dentro
+de las restricciones naturales de la vida ordinaria! ¡Con qué sincera
+sumisión cerré la puerta por la cual había entrado y salido tantas
+veces, y destrocé la llave bajo mis pies!
+
+Al día siguiente, los diarios anunciaron que el asesino había sido
+visto, que el crimen de Hyde era evidente, y que la víctima era un
+hombre que disfrutaba del aprecio público. Aquello no había sido
+únicamente un crimen, sino también una locura trágica. Me agradaba
+ver emitir esa opinión; felicitábame interiormente viendo que mis
+tendencias mejores se hallaban fortalecidas de aquel modo, y puestas,
+además, bajo la salvaguardia del horror que inspira el cadalso.
+
+Jekyll era, pues, mi refugio, mi asilo; que Hyde se dejase ver un
+instante fuera, y los brazos de todos los hombres se levantarían para
+prenderlo y para matarlo.
+
+Resolví rescatar lo pasado con mi conducta futura; y puedo añadir que
+mi resolución produjo algún bien. Sabéis por vos mismo cuánto trabajé
+recientemente, en los últimos meses del año pasado, para mejorar la
+suerte de los desgraciados; sabéis que he hecho mucho por otros, y que
+los días han transcurrido para mí tranquilamente, casi con dicha y
+felicidad. No puedo decir por cierto que esa vida de beneficencia y de
+inocencia me pesase; creo, al contrario, que cada día era para mí más
+agradable.
+
+Pero me atormentaba siempre el dualismo de mis tendencias, y cuando
+los rigores de la penitencia impuesta comenzaron á dulcificarse, los
+malos instintos de mi ser, durante tanto tiempo acariciados, aunque
+encadenados hacía poco, rugieron con violencia pidiendo su libertad.
+No pensaba ciertamente en resucitar á Hyde; sólo la idea de esa
+resurrección bastaba para asustarme y extremecerme; y como un pecador
+vulgar, concluí sin embargo, por sucumbir á los constantes asaltos de
+la tentación.
+
+Todas las cosas tienen fin; el vaso mayor concluye por llenarse; y esa
+débil condescendencia á mis malhadados instintos concluyó, también, por
+destruir mis buenos propósitos; no me hallaba aún alarmado; la caída
+parecía natural, y ser únicamente un retroceso á aquellos antiguos días
+anteriores á mi descubrimiento. Oíd lo que me aconteció:
+
+Era un hermoso y claro día de enero, atravesaba el Parque del Regente,
+el suelo estaba húmedo en los puntos donde la nieve se había derretido,
+pero el cielo aparecía despejado y sin nubes; el gorjeo de los pájaros
+se mezclaba á unos olores suaves y deliciosos, casi primaverales. Me
+senté en un banco al sol. La parte animal de mi ser se gozaba en los
+recuerdos; la parte espiritual estaba algo dormida, pero dispuesta
+á futuras expiaciones, aunque sin querer comenzarlas desde luego.
+Después de todo, decíame á mí mismo que era semejante á mis vecinos; y
+entonces sonreí comparándome con los demás hombres, mi buena voluntad,
+mis beneficios y mi actividad, con su crueldad y su pereza.
+
+En el mismo instante en que me acudía aquel orgulloso pensamiento, un
+calambre, un extremecimiento me pasó por todo el cuerpo, una horrible
+náusea, un temblor mortal se apoderaron de mí.
+
+Todo ello pasó dejándome algo débil; y á pesar de esa debilidad comencé
+á experimentar un cambio en el curso de mis ideas, mayor osadía,
+desprecio del peligro, y un abandono real de los deberes y obligaciones
+de este mundo. Miré al suelo; mi traje caía informe sobre mis miembros
+encogidos y arrugados; la mano que descansaba en mi rodilla era
+nerviosa y peluda. Otra vez volvía á ser Eduardo Hyde. Poco antes
+me hallaba seguro del respeto de los demás hombres, rico, estimado;
+mientras que ahora me veía convertido en vulgar presa de los hombres,
+perseguido, sin domicilio, un asesino común amenazado con el cadalso.
+
+Mi razón vacilaba, pero no me abandonó completamente. Más de una vez
+había observado ya que, bajo mi segunda forma, mis facultades parecían
+más vivas y animadas, mis ideas más elásticas; y así aconteció que allí
+en donde quizá Jekyll hubiese sucumbido, Hyde se elevó á la altura
+que requería el momento. Mis ingredientes se hallaban en una de las
+gavetas de un armario de mi gabinete; ¿cómo hacer para tenerlos? Ese
+era el problema cuya solución buscaba, apretándome las sienes con ambas
+manos. Había cerrado la puerta del laboratorio. Si hubiese tratado de
+entrar por la casa, mis propios criados me hubieran llevado á la horca.
+Vi que tenía que acudir á otras manos, y pensé en Lanyón. Pero, ¿cómo
+llegar hasta él? ¿Cómo persuadirlo? Suponiendo que llegase á evitar el
+arresto en las calles, ¿cómo hacer para ir hasta él? Y ¿cómo lograría
+yo, visita desconocida y repugnante, persuadir al gran médico á ir á
+saquear el gabinete de estudio de su colega el Doctor Jekyll?
+
+Recordé entonces la originalidad de mi carácter; me quedaba un partido
+que tomar; podía escribir con mi propia letra, y cuando me hallé
+iluminado por aquella chispa vivificadora, la vía que debía seguir se
+presentó á mi vista desde el principio hasta el fin.
+
+En esto arreglé mi traje lo mejor que pude, y llamando un coche que
+pasaba, me hice conducir á una posada de la calle de Portland, cuyo
+nombre recordaba, felizmente. Al verme (mi aspecto era verdaderamente
+bastante cómico, aunque el traje convenía más bien á un hombre que
+estuviese en un instante trágico) el cochero no pudo ocultar la
+risa. Rechiné los dientes, mirándolo con furor diabólico; la sonrisa
+desapareció de sus labios, afortunadamente para él y más aún para mí,
+pues en cualquiera otra circunstancia le hubiera arrojado á viva fuerza
+de su sitio. Al entrar en la posada, eché una mirada á mi alrededor
+con aire tan terrible, que temblaron las personas allí presentes;
+mientras estuve á su vista, no se miraron entre sí, recibieron
+obsequiosas mis órdenes, me condujeron á un cuarto y me llevaron recado
+de escribir. Hyde en peligro de perder la vida, era un ser desconocido
+hasta para mí, pues conmovido por una cólera desenfrenada, estaba
+suficientemente excitado para cometer otro asesinato, deseoso de hacer
+sufrir á sus semejantes. Pero fué, sin embargo, hábil, y contuvo sus
+accesos de furor, con grandes esfuerzos de voluntad; arregló las
+dos importantes cartas, una para Lanyón, y otra para Poole y pudo
+convencerse de que habían sido realmente llevadas al correo, pues dió
+orden para que las certificasen.
+
+Luego permaneció todo el día sentado junto al fuego en su cuarto,
+comiéndose las uñas; más tarde le sirvieron la comida allí mismo, sin
+más compañía que sus temores; el criado temblaba bajo el ascendiente de
+sus miradas, y así que fué entrada la noche, tomó un carruaje cerrado
+y se paseó de un lado á otro por la ciudad. Él, digo--no me es posible
+decir _yo_--ese hijo del infierno no tenía nada de humano; nada vivía
+en él fuera del temor y el odio. Cuando en fin, creyó que el cochero
+iba á empezar á desconfiar, bajó del coche y se aventuró á pie, con su
+traje desproporcionado para su estatura, y propio para atraer sobre él
+la atención de los transeuntes nocturnos. Sus dos bajas pasiones, el
+miedo y la rabia, hervían en él furiosas. No cesó de andar, perseguido
+por sus temores, gruñendo en su interior, ocultándose en los parajes
+menos frecuentados y contando los minutos que le separaban aún de la
+media noche. En cierto instante creo que le habló una mujer, para
+ofrecerle una caja de fósforos. Pególe en el rostro, y huyó.
+
+Cuando llegué á casa de Lanyón, el horror que experimentó mi antiguo
+amigo me causó quizá alguna impresión; pero no lo aseguro, pues en todo
+caso fué sólo una gota más en el océano de horrores que habían llenado
+las horas precedentes. Acababa de operarse un cambio en mí. Ya no era
+el miedo del cadalso, era el horror de ser Hyde lo que me atormentaba.
+La repulsión que inspiraba á Lanyón me apareció como un sueño, y como
+soñando, también, volví á mi casa y me acosté. Dormí, después del
+cansancio de aquel día, con un sueño profundo y pesado, que ni siquiera
+fué interrumpido por las pesadillas que me atormentaban. Desperté por
+la mañana conmovido, debilitado, pero más tranquilo. Seguía odiando
+al animal, á la bestia que dormitaba en mí, y la temía, pues no había
+olvidado los terribles peligros del día anterior; pero volvía á estar
+en mi casa, y cerca de mis drogas; y la gratitud que tuve por haber
+escapado al peligro fué tan grande en mi alma, que casi rivalizaba con
+el resplandor de la esperanza.
+
+Después de almorzar, atravesé el patio tranquilamente, respirando con
+placer el aire fresco, cuando me acometieron de nuevo repentinamente
+aquellas indescriptibles sensaciones, heraldos seguros de la
+transformación, y apenas tuve el tiempo preciso para ponerme á cubierto
+en mi gabinete, y ya rabiaba y tiritaba de frío, atormentado una vez
+más por las pasiones de Hyde. Tomé entonces doble dosis para recobrar
+mi identidad, pero ¡ay! seis horas después, mientras contemplaba
+tristemente el fuego, los dolores me acometieron y tuve que volver
+á tomar la pócima. En una palabra, desde aquel día sólo por medio
+de grandes esfuerzos, como los que exige la gimnástica, y bajo la
+influencia inmediata de la pócima, podía permanecer siendo el mismo,
+es decir, conservar la personalidad de Jekyll. Á cada instante, á
+cualquiera hora del día ó de la noche me acometían los escalofríos
+precursores; sobre todo cuando dormía, ó estando soñoliento, y aun
+hallándome ocupado en el trabajo, sentado en mi sillón, me despertaba
+siempre convertido en Hyde. Oprimido por el peso incesante de esta
+sentencia, absteniéndome voluntariamente de todo sueño, más allá de
+lo que consideraba posible para el hombre, me convertí bajo la forma
+de Jekyll, en una criatura devorada por la fiebre, que se consumía
+y se debilitaba á la vez de cuerpo y alma, y perseguida únicamente
+por una idea, á saber: el horror que me inspiraba mi otro _yo_. Pero
+cuando dormía, ó cuando el efecto de la medicina había pasado, sentía
+casi sin transición (pues los dolores de la transformación iban
+disminuyendo cada día) un estado de espíritu en el cual me acometían
+visiones terribles, en que sentía hervir en mi alma odios sin razón ni
+motivo, y en que mi cuerpo no parecía ya bastante fuerte para contener
+las rabiosas energías vitales. Hubiérase dicho que el vigor de Hyde
+había crecido con la debilidad de Jekyll. Y en verdad, el odio que los
+dividía entonces era igual en ambos lados. Para Jekyll era una lucha
+por su propia vida. Habíase dado cuenta de la deformidad de aquella
+criatura que compartía con él algunas de sus facultades intelectuales,
+y era su compañero obligado, forzoso ante la muerte; y más allá de
+esos lazos comunes, que en sí mismos formaban la parte más penosa
+de sus tormentos, consideraba á Hyde, á pesar de la energía de su
+vitalidad, como á un ser no sólo infernal, sino también inorgánico.
+Pero lo que le producía mayor terror era la idea de que el lodo del
+infierno podía emitir sonidos y lanzar gritos; que aquel polvo informe
+podía gesticular y cometer pecados; que lo que estaba muerto y no tenía
+ninguna forma, podía sin embargo llenar las funciones de la vida; y que
+todo aquel conjunto estaba unido á su persona, más estrechamente de
+lo que hubiera podido estarlo una esposa, un ojo; que aquel conjunto
+estaba preso en su propia carne, hasta el punto de que durante el
+misterio del sueño, podía luchar contra él y arrebatarle su misma
+existencia. El odio que experimentaba Hyde contra Jekyll era de otra
+naturaleza. Su miedo al patíbulo le obligaba continuamente á suicidarse
+por un momento, volviendo á su estado de dependencia, formando
+entonces una parte de otro ser, en vez del ser mismo; odiaba aquella
+necesidad, odiaba aquella tristeza á la cual Jekyll se entregaba
+ahora, y experimentaba todo el odio que sentían contra él. De ahí
+aquellos juegos de manos que me hacía, garabateando con mi propia letra
+blasfemias en mis libros, quemando las cartas, destruyendo el retrato
+de mi padre; y en realidad, si el temor de su muerte no le hubiese
+contenido, tiempo haría que se hubiese perdido para arrastrarme en su
+ruina. Pero tenía extraordinario amor á la vida; voy aun más allá; yo,
+que siento revolvérseme el corazón y me extremezco con sólo pensar en
+él, cuando recuerdo su vil pasión por la vida, y cuando recuerdo sus
+temores de que llegase á suicidarme, casi tengo compasión de él.
+
+Es inútil y me falta tiempo para prolongar esta descripción; bástame
+decir que nadie ha sufrido jamás tormentos iguales; y sin embargo, el
+hábito de sobrellevarlos ha producido, no un alivio, no un descargo,
+sino cierta dureza del alma, cierto abandono, cierta indiferencia para
+con la desesperación; mi castigo hubiera podido durar años todavía, si
+no me hubiese ocurrido la última desgracia, y por fin, no me hubiese
+separado de mi propia personalidad. Mi provisión de sal, que jamás
+había renovado desde mi primer experimento, comenzaba á disminuir.
+Envié á buscar nuevas provisiones y compuse la pócima; prodújose la
+ebullición, el primer cambio de color también, pero no el segundo; la
+bebí, pero no produjo efecto. Sabréis por Poole cómo y hasta qué punto
+he registrado todo Londres, pero inútilmente, y estoy persuadido hoy
+de que mi primera provisión era impura (tenía mezcla) constituyendo
+precisamente esa impureza desconocida la eficacia de la pócima.
+
+Ha transcurrido una semana, y concluyo esta relación gracias al efecto
+producido por los últimos paquetes de mis antiguos polvos. Es, pues,
+la última vez--salvo un milagro--en que Enrique Jekyll puede decir
+sus propias ideas, ver su propio rostro (y ¡cuán cambiado está!) en
+el espejo. Además, no puedo demorar el concluir este escrito, pues si
+hasta aquí ha podido salvarse de la destrucción, débese á una gran
+prudencia de mi parte, y á una gran casualidad. Si los dolores de la
+transformación me acometen mientras escribo, Hyde lo hará pedazos; pero
+si ha transcurrido algún tiempo después que lo haya puesto aparte, su
+egoísmo increíble y sus ideas siempre fijas en el presente, lo salvarán
+otra vez de su maldad de mono; pues el destino que pesa á la vez sobre
+nosotros dos, ha contribuído también á cambiarlo y á anonadarlo. Me
+queda todavía media hora que esperar antes de volver á entrar para
+siempre en esa personalidad maldecida, y sé cómo estaré entonces
+sentado, gimiendo y tiritando en una silla, escuchando con atención y
+espanto, yendo y viniendo en esta habitación (mi último asilo en la
+tierra) sin cesar un instante, deteniéndome para escuchar los ruidos
+amenazadores.
+
+¿Morirá Hyde en el patíbulo? ¿ó tendrá á última hora el valor de
+librarse de sí propio? Sólo Dios lo sabe. Poco cuidado me da; éste
+es el verdadero término de mi muerte, y todo cuanto venga después
+corresponde á otro que yo. Aquí, pues, dejando la pluma y sellando mi
+confesión, concluyo de referir la vida del desgraciado ENRIQUE JEKYLL."
+
+
+                                 FIN.
+
+
+
+
+SUMARIO
+
+
+                                        PÁGINAS
+
+  HISTORIA DE LA PUERTA                       5
+
+  EN BUSCA DEL SR. HYDE                      21
+
+  EL DR. JEKYLL ESTABA TRANQUILO             41
+
+  EL CASO DEL ASESINO DE CAREW               47
+
+  INCIDENTE DE LA CARTA                      58
+
+  NOTABLE INCIDENTE DEL DR. LANYÓN           70
+
+  INCIDENTE DE LA VENTANA                    80
+
+  LA ÚLTIMA NOCHE                            84
+
+  RELACIÓN DEL DR. LANYÓN                   112
+
+  EXPLICACIÓN COMPLETA DEL CASO EXTRAÑO
+  DEL DR. ENRIQUE JEKYLL                    130
+
+
+
+
+                     NOVELAS PUBLICADAS EN ESPAÑOL
+                                  POR
+                    D. APPLETON Y CÍA., NUEVA YORK.
+
+
+MARÍA ANTONIETA Y SU HIJO.
+
+Traducción del alemán. Un tomo de 173 páginas, con varias láminas y un
+retrato de María Antonieta, en el frontispicio. 60 centavos.
+
+
+MISTERIO * * * *
+
+Novela original, escrita en inglés bajo el nombre de CALLED BACK,
+
+                           POR HUGH CONWAY.
+
+_Obra dramatizada._ 800,000 ejemplares vendidos de las ediciones
+inglesas. Forma un bonito tomo en 12º de unas 230 páginas, tipo claro,
+buena impresión, cubierta de papel de color artísticamente decorada. 50
+centavos.
+
+
+LA ISLA DEL TESORO.
+
+Una preciosa novela escrita en inglés
+
+                      POR ROBERTO L. ESTEVENSON.
+
+Con ilustraciones, y un mapa, uniforme con la novela MISTERIO * * * *.
+Un tomo de 342 páginas. 50 centavos.
+
+
+LA CASA DEL PANTANO.
+
+Una de las novelas más populares en Inglaterra y en los Estados Unidos.
+50 centavos.
+
+
+SU CARA MITAD.
+
+                            POR J. BARRETT.
+
+Es una preciosa novela inglesa, llena de amenidad y de ejemplos
+filosófico-morales de la vida real, escrita en un lenguaje claro,
+sencillo y lleno de interés. La versión española es muy buena.
+
+
+EL ÍDOLO CAÍDO.
+
+                       NOVELA INGLESA DE ANSTEY.
+
+Anstey es un novelista peculiar como lo demuestra su _Vice-Versa_ y
+otras de sus obras, llenas de una fantasía siempre fundada en alguna
+tradición más ó menos imposible, pero al fin tradición que instruye
+y deleita á la vez; puede considerarse como el Julio Verne de alguna
+creencia antigua ó de alguna superstición ó leyenda del pasado. El
+estilo está lleno de genialidades, de humor y de sátira.
+
+
+CUENTOS EN EL MAR.
+
+Es una preciosa colección de cuentos, referidos durante un accidente
+en el mar por varios novelistas ingleses y americanos que se suponen
+reunidos á bordo de un vapor.
+
+
+
+
+
+End of the Project Gutenberg EBook of El caso extraño del Doctor Jekyll, by 
+Robert Louis Stevenson
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EL CASO EXTRAÑO DEL DOCTOR JEKYLL ***
+
+***** This file should be named 62627-8.txt or 62627-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/6/2/62627/
+
+Produced by Carlos Colón, The Library of Congress and the
+Online Distributed Proofreading Team at https://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive/American Libraries.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

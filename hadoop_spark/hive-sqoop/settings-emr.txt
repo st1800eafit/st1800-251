@@ -1,0 +1,15 @@
+# ejecute estas instrucciones en el nodo master del cluster EMR:
+
+# Actualización de hue-sqoop-mysql: (cambiar lib_20201023180945 por el especifico del cluster EMR)
+
+# Esto es para que funcione SQOOP desde la interfaz web HUE
+
+hdfs dfs -put /usr/share/java/mysql-connector-java.jar /user/oozie/share/lib/lib_20201023180945/sqoop/
+hdfs dfs -chown oozie /user/oozie/share/lib/lib_20201023180945/sqoop/mysql-connector-java.jar
+hdfs dfs -chgrp oozie /user/oozie/share/lib/lib_20201023180945/sqoop/mysql-connector-java.jar
+
+hdfs dfs -cp /user/oozie/share/lib/lib_20201023180945/hive/* /user/oozie/share/lib/lib_20201023180945/sqoop/
+hdfs dfs -chown oozie /user/oozie/share/lib/lib_20201023180945/sqoop/*
+hdfs dfs -chgrp oozie /user/oozie/share/lib/lib_20201023180945/sqoop/*
+
+oozie admin -sharelibupdate
