@@ -1,0 +1,22 @@
+{
+  "cloudwatch.emitMetrics": false,
+  "kinesis.endpoint": "kinesis.us-east-1.amazonaws.com",
+  "firehose.endpoint": "firehose.us-east-1.amazonaws.com",
+  "flows": [
+    {
+      "filePattern": "/var/log/acmeco/*.log",
+      "kinesisStream": "acmecoOrders",
+      "partitionKeyOption": "RANDOM",
+      "dataProcessingOptions": [
+         {
+            "optionName": "CSVTOJSON",
+            "customFieldNames": ["InvoiceNo", "StockCode", "Description", "Quantity", "InvoiceDate", "UnitPrice", "Customer", "Country"]
+         }
+      ]
+    },
+    {
+      "filePattern": "/var/log/acmeco/*.log",
+      "deliveryStream": "purchaseLogs"
+    }
+  ]
+}

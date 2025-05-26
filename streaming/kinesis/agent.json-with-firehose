@@ -1,0 +1,12 @@
+{
+  "cloudwatch.emitMetrics": false,
+  "kinesis.endpoint": "",
+  "firehose.endpoint": "firehose.us-east-1.amazonaws.com",
+  
+  "flows": [
+    {
+      "filePattern": "/var/log/acmeco/*.log",
+      "deliveryStream": "purchaseLogs"
+    }
+  ]
+}
