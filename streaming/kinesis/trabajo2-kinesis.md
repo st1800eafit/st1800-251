@@ -141,7 +141,7 @@ Nota: Copy las credenciales de AWS ACADEMY en el archivo generado. tener en cuen
 
         en otra terminal, generar nuevos registros para que el consumer los adquiera de kinesis y los inserte en DynamoDB
 
-## Configurar un Procesador de Flujo en AWS Lambda
+## Configurar un Procesador de Flujo en AWS Lambda.
 
 8. Crear una funcion aws lambda para consumir de kinesis data streams e insertar en una tabla DynamoDB:
 
