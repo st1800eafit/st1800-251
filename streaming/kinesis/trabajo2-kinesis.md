@@ -90,7 +90,9 @@ Este Role asociarlo a la instancia EC2 donde instalará el agent de kinesis.
 
 ### copie el archivo del repo github: agent.json-with-firehose-and-datastreams hacia /etc/aws-kinesis/agent.json
 
-        $ sudo vim /etc/aws-kinesis/agent.json
+        $ sudo cp agent.json-with-firehose-and-datastreams /etc/aws-kinesis/agent.json
+
+        $ sudo more /etc/aws-kinesis/agent.json
 
         se adiciona al archivo original de firehose: 
 
