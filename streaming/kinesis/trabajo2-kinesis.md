@@ -15,7 +15,7 @@
 
         Delivery stream name: purchaseLogs
 
-        Destination settings/S3 bucket: st1800orderlogs
+        Destination settings/S3 bucket: st1800orderlogs     (escoja su propio nombre de bucket y realice todas las actualizaciones pertinentes)
         
         Buffer hints, compression and encryption:
         Buffer interval: 60 segs
@@ -24,7 +24,7 @@
         PermissionsInfo:
         (o) Choose existing IAM role: LabRole
 
-        Click on: Create delivery stream
+        Click on: Create Firehose stream
         
 2. crear una instancia EC2 AMI 2023 linux
 
