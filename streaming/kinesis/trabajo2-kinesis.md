@@ -131,9 +131,9 @@ Este Role asociarlo a la instancia EC2 donde instalará el agent de kinesis.
 
 Nota: Copy las credenciales de AWS ACADEMY en el archivo generado. tener en cuenta la region: us-east-1 y el formato: json
 
-7. Configurar un Consumer del kinesis data stream, mediente un cliente standalone (Consumer.py)
+### edite el archivo /home/ec2-user/.aws/credentials para adicionar el aws_session_token
 
-Nota: tenga en cuenta que esta versión es python2, hay que adaptarlo a versión python3
+7. Configurar un Consumer del kinesis data stream, mediente un cliente standalone (Consumer.py)
 
         configurar 'Consumer.py'
         $ chmod a+x Consumer.py
