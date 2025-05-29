@@ -23,4 +23,4 @@ git clone https://github.com/st1800eafit/st1800-251.git
 
 cd st1800-251/streaming
 
-# continuar con la guia de lab-kinesis.md
+# continuar con la guia de trabajo2-kinesis.md
