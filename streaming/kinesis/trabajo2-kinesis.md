@@ -115,7 +115,9 @@ Este Role asociarlo a la instancia EC2 donde instalará el agent de kinesis.
 
 5. generar logs de prueba:
 
-        $ sudo python3 LogGenerator.py 1000
+        $ sudo python3 LogGenerator.py 500
+
+## Configurar un Consumer del kinesis data stream, mediente un cliente standalone (Consumer.py)
 
 6. ir a la instancia EC2 donde tenemos en kinesis-agent para consumirlos MANUALMENTE y almacenarlos en la base de datos DynamoDB
 
