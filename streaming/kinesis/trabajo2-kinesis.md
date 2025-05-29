@@ -66,9 +66,9 @@ Este Role asociarlo a la instancia EC2 donde instalará el agent de kinesis.
 
         $ sudo python3 LogGenerator.py 1000
 
-8. chequee en unos minutos el 'bucket' st1800orderlogs
+8. chequee en unos minutos el 'bucket' st1800orderlogs o equivalente.
 
-9. ejecute aws glue y consulte con aws athena los datos de S3 st1800orderlogs (opcional)
+9. ejecute aws glue y consulte con aws athena los datos de S3 st1800orderlogs o equivalente.
 
 # Trabajo 2 - parte 2 - Logs Agent -> Kinesis Data Streams -> Lambda -> DynamoDB:
 
